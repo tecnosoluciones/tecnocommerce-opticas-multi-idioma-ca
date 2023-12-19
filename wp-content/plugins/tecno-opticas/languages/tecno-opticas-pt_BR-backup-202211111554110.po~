@@ -1,0 +1,1936 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tecno Opticas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-11 15:49+0000\n"
+"PO-Revision-Date: 2022-11-11 10:51-0500\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.6.3; wp-6.0.3\n"
+"X-Domain: tecno-opticas\n"
+
+#: admin/ajustes_modulo.php:284
+#, fuzzy
+msgid " Por favor seleccione el tipo de proceso de compra:"
+msgstr " Selecione o tipo de processo de compra:"
+
+#: tecno-opticas.php:466 tecno-opticas.php:503 includes/proceso_compra.php:1058
+#: includes/proceso_compra_lentes_contacto.php:191
+#: includes/proceso_compra_lentes_contacto.php:355
+#, fuzzy, php-format
+msgid "(tamaño máx. de archivo %s)"
+msgstr "(max. tamanho do arquivo %s)"
+
+#: admin/ajustes.php:92
+#, fuzzy
+msgid ""
+"1. Ahora debes seleccionar uno de nuestros tipos de lentes para pasar al "
+"siguiente paso."
+msgstr ""
+"1. Agora você precisa selecionar um dos nossos tipos de lentes para passar "
+"para o próximo passo."
+
+#: admin/ajustes.php:93
+#, fuzzy
+msgid ""
+"2. Gracias por tu elección. Para avanzar al siguiente paso haz clic en el "
+"botón Continuar."
+msgstr ""
+"2. Obrigado por sua escolha. Para avançar para a próxima etapa, clique no "
+"botão Continuar."
+
+#: admin/ajustes.php:94
+#, fuzzy
+msgid ""
+"3. Bien, ahora debes llenar TODOS los campos de tu fórmula para poder seguir "
+"adelante. Por favor nota que también debes cargar la imagen de la "
+"prescripción de la fórmula. Una vez que hayas llenado todo, haz clic en el "
+"botón continuar."
+msgstr ""
+"3. Bem, agora você precisa preencher TODOS os campos de sua fórmula para "
+"seguir em frente. Por favor, note que você também deve carregar a imagem "
+"prescrita da fórmula. Depois de preencher tudo, clique no botão continuar."
+
+#: admin/ajustes.php:95
+#, fuzzy
+msgid "4. Bien avancemos al siguiente paso, haz clic en el botón Continuar."
+msgstr "4. Bem para a frente para o próximo passo, clique no botão Continuar."
+
+#: admin/ajustes.php:96
+#, fuzzy
+msgid ""
+"5. Selecciona las características de lentes que prefieras para seguir "
+"avanzando."
+msgstr "5. Selecione os recursos da lente que você prefere seguir em frente."
+
+#: admin/ajustes.php:97
+#, fuzzy
+msgid ""
+"6. Bien ya tienes la característica de los lentes que quieres, haz clic en "
+"el botón Continuar."
+msgstr ""
+"6. Bem, você já tem o recurso das lentes que deseja, clique no botão "
+"Continuar."
+
+#: includes/proceso_compra.php:236
+#, fuzzy, php-format
+msgid ""
+"<strong>%s</strong> ofrece 3 tamaños de montura diferentes (S, M, L). Por lo "
+"tanto, elegir la correcta es la clave para asegurarse de que sus nuevas "
+"gafas se ajustan correctamente a su cara."
+msgstr ""
+"<strong>%s</strong> oferece 3 diferentes tamanhos de montagem (S, M, L). "
+"Então, escolher o certo é a chave para garantir que seus novos óculos se "
+"encaixem corretamente no seu rosto."
+
+#: tecno-opticas.php:639
+#, fuzzy
+msgid ""
+"A continuación te mostramos todas las opciones escogidas. Por favor revisa "
+"todo y si estás conforme haz clic en el botón Agregar al Carrito"
+msgstr ""
+"Abaixo mostramos todas as opções escolhidas. Por favor, verifique tudo e se "
+"você estiver feliz clique no botão Adicionar ao Carrinho"
+
+#: includes/plantilla_formula.php:126
+msgid "Acciones"
+msgstr "Ações"
+
+#: admin/licencia.php:36
+#, fuzzy
+msgid "Activación del módulo"
+msgstr "Ativando o módulo"
+
+#: admin/licencia.php:55
+msgid "Activar"
+msgstr "Ativar"
+
+#: admin/formulas.php:312 admin/formulas.php:374 admin/formulas.php:439
+#: admin/formulas.php:501 admin/formulas.php:566 admin/formulas.php:628
+#: includes/proceso_compra.php:896 includes/proceso_compra.php:903
+#: includes/proceso_compra.php:909
+#, fuzzy
+msgid "ADD"
+msgstr "Adicionar"
+
+#: includes/proceso_compra.php:84 includes/proceso_compra.php:470
+#, fuzzy
+msgid "ADD ojo Der"
+msgstr "ADD eye Der"
+
+#: includes/plantilla_formula.php:241 includes/plantilla_formula.php:383
+#, fuzzy
+msgid "ADD Ojo Derecho"
+msgstr "ADICIONAR Olho Direito"
+
+#: includes/proceso_compra.php:100 includes/proceso_compra.php:498
+#, fuzzy
+msgid "ADD ojo Izq"
+msgstr "Add olho esquerdo"
+
+#: includes/plantilla_formula.php:247 includes/plantilla_formula.php:389
+#, fuzzy
+msgid "ADD Ojo Izquierdo"
+msgstr "Adicionar olho esquerdo"
+
+#: admin/documentacion.php:16
+#, fuzzy
+msgid ""
+"Adicional a eso le permite establecer rangos de fórmulas para definir "
+"precios en los productos tipo lentes. Usted podrá configurar las "
+"características de los lentes y agregar tinturas o\n"
+"            colores para los cristales."
+msgstr ""
+"Além disso, permite estabelecer faixas de fórmulas para definir preços em "
+"produtos do tipo lente. Você será capaz de configurar as características das "
+"lentes e adicionar corantes ou\n"
+"            Cores para os cristais."
+
+#: admin/licencia.php:101
+#, fuzzy
+msgid "Agrega algo en el campo licencia"
+msgstr "Adicione algo no campo de licença"
+
+#: admin/ajustes_modulo.php:99
+msgid "Ajuste"
+msgstr "Regulação"
+
+#: includes/opciones.php:23
+#, fuzzy
+msgid "Ajustes"
+msgstr "Configurações"
+
+#: admin/ajustes_whatsapp.php:67 admin/ajustes_modulo.php:178
+#: admin/descripcion_tipos.php:61 admin/ajustes.php:140
+#, fuzzy
+msgid "Ajustes Generales"
+msgstr "Configurações gerais"
+
+#: includes/lentes.php:207
+msgid "Alta"
+msgstr "Alta"
+
+#: includes/proceso_compra.php:271
+#, fuzzy
+msgid "Alto de la Lente"
+msgstr "Altura da lente"
+
+#: includes/monturas.php:209 includes/monturas.php:211
+#, fuzzy
+msgid "Alto Lente (mm)"
+msgstr "Lente alta (mm)"
+
+#: includes/proceso_compra.php:108 includes/proceso_compra.php:505
+#, fuzzy
+msgid "Altura"
+msgstr "Altura"
+
+#: includes/proceso_compra.php:264
+#, fuzzy
+msgid "Ancho de la Lente"
+msgstr "Largura da lente"
+
+#: includes/proceso_compra.php:241
+#, fuzzy
+msgid "Ancho de la Montura"
+msgstr "Largura de montagem"
+
+#: includes/monturas.php:178
+#, fuzzy
+msgid "Ancho de la montura en mm"
+msgstr "Largura de montagem em mm"
+
+#: includes/monturas.php:200
+#, fuzzy
+msgid "Ancho del lente en mm"
+msgstr "Largura da lente em mm"
+
+#: includes/monturas.php:189
+#, fuzzy
+msgid "Ancho del puente en mm"
+msgstr "Largura da ponte em mm"
+
+#: includes/monturas.php:198
+#, fuzzy
+msgid "Ancho Lente (mm)"
+msgstr "Largura da lente (mm)"
+
+#: includes/monturas.php:176
+#, fuzzy
+msgid "Ancho Montura (mm)"
+msgstr "Suporte de largura (mm)"
+
+#: admin/ajustes_whatsapp.php:78
+#, fuzzy
+msgid ""
+"Aquí usted debe configurar el número de whatsapp y el mensaje que se va a "
+"mostrar."
+msgstr ""
+"Aqui você deve configurar o número do whatsapp e a mensagem a ser exibida."
+
+#: admin/formulas_lentes_contacto.php:129
+#, fuzzy
+msgid ""
+"Aquí usted debe configurar el rango correspondiente al campo Esfera para los "
+"lentes de contacto con visión Miopía o Hipermetropía."
+msgstr ""
+"Aqui você deve definir o intervalo correspondente ao campo Sphere para "
+"lentes de contato com visão Myopia ou Hyperopia."
+
+#: admin/descripcion_tipos.php:71
+#, fuzzy
+msgid "Aquí usted debe configurar la descripción para los tipos de visión."
+msgstr "Aqui você deve definir a descrição para os tipos de visão."
+
+#: admin/ajustes_modulo.php:193
+#, fuzzy
+msgid "Aquí usted debe configurar los ajustes del módulo."
+msgstr "Aqui você deve configurar as configurações do módulo."
+
+#: admin/ajustes.php:155
+#, fuzzy
+msgid ""
+"Aquí usted debe configurar los mensajes que guiarán a los clientes a través "
+"del proceso de compra de las gafas con lentes formulados."
+msgstr ""
+"Aqui você deve configurar mensagens que guiarão os clientes através do "
+"processo de compra de óculos com lentes formuladas."
+
+#: admin/formulas_lentes_contacto.php:185
+#, fuzzy
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro y Eje para los lentes de contacto con visión Astigmatismo."
+msgstr ""
+"Aqui você deve configurar as faixas correspondentes aos campos Esfera, "
+"Cilindro e Eixo para lentes de contato com visão astigmatismo."
+
+#: admin/formulas.php:168
+#, fuzzy
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro y Eje para los lentes de Visión Sencilla."
+msgstr ""
+"Aqui você deve configurar as faixas correspondentes aos campos Sphere, "
+"Cylinder e Axis para lentes de Visão Única."
+
+#: admin/formulas.php:271
+#, fuzzy
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro, ADD y Eje para los lentes Bifocales."
+msgstr ""
+"Aqui você deve configurar as faixas correspondentes aos campos Sphere, "
+"Cylinder, ADD e Axis para lentes Bifocal."
+
+#: admin/formulas.php:525
+#, fuzzy
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro, ADD y Eje para los lentes Ocupacionales."
+msgstr ""
+"Aqui você deve configurar as faixas correspondentes aos campos Sphere, "
+"Cylinder, ADD e Axis para lentes ocupacionais."
+
+#: admin/formulas.php:398
+#, fuzzy
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro, ADD y Eje para los lentes Progresivos."
+msgstr ""
+"Aqui você deve configurar as faixas correspondentes aos campos Sphere, "
+"Cylinder, ADD e Axis para lentes Progressivas."
+
+#: admin/formulas_lentes_contacto.php:119 includes/lentes_contacto.php:78
+#, fuzzy
+msgid "Astigmatismo"
+msgstr "Astigmatismo"
+
+#: admin/formulas_lentes_contacto.php:165
+#, fuzzy
+msgid ""
+"Así se verá el campo de la fórmula para lentes de contacto de visión Miopía "
+"o Hipermetropía con el rango que usted ha configurado:"
+msgstr ""
+"Isto é o que o campo de fórmula para lentes de contato de visão será "
+"parecido com Myopia ou Hyperopia com o alcance que você configurou:"
+
+#: admin/formulas_lentes_contacto.php:249
+#, fuzzy
+msgid ""
+"Así se verán los campos de la fórmula para lentes de contacto de visión "
+"Astigmatismo con los rangos que usted ha configurado:"
+msgstr ""
+"É assim que os campos da fórmula de lente de contato da visão astigmatismo "
+"se parecerão com as faixas que você configurou:"
+
+#: tecno-opticas.php:454 tecno-opticas.php:491 includes/proceso_compra.php:1046
+#, fuzzy
+msgid "Atención personalizada"
+msgstr "Atenção personalizada"
+
+#: includes/monturas.php:42
+#, fuzzy
+msgid "Atributos de la Montura"
+msgstr "Atributos de montagem"
+
+#: includes/lentes.php:46
+#, fuzzy
+msgid "Atributos de Lentes"
+msgstr "Atributos da lente"
+
+#: templates/proceso_compra/configurar_formula.php:145
+#, fuzzy
+msgid "Añadir al carrito"
+msgstr "Adicione ao carrinho"
+
+#: includes/opciones.php:21
+#, fuzzy
+msgid "Añadir Filtros"
+msgstr "Adicionar filtros"
+
+#: includes/plantilla_formula.php:118
+#, fuzzy
+msgid "Añadir fórmula"
+msgstr "Adicionar fórmula"
+
+#: includes/lentes.php:209
+msgid "Baja"
+msgstr "Baixa"
+
+#: admin/ajustes.php:164
+#, fuzzy
+msgid "BIENVENIDA"
+msgstr "BEM-VINDO"
+
+#: admin/configuracion.php:14
+#, fuzzy
+msgid "Bienvenido a la Documentación de Tecno-Seguridad"
+msgstr "Bem-vindo à Documentação Techno-Security"
+
+#: admin/documentacion.php:13
+#, fuzzy
+msgid "Bienvenido a la Documentación del Módulo de Tecno Ópticas"
+msgstr "Bem-vindo à Documentação do Módulo De Óptica Techno"
+
+#: admin/ajustes_modulo.php:246 admin/formulas.php:150
+#, fuzzy
+msgid "Bifocal"
+msgstr "Bifocais"
+
+#: admin/descripcion_tipos.php:124 includes/lentes.php:77
+#: includes/plantilla_formula.php:205 includes/plantilla_formula.php:779
+#, fuzzy
+msgid "Bifocales"
+msgstr "Bifocals"
+
+#: includes/proceso_compra.php:255
+#, fuzzy
+msgid "Brazo"
+msgstr "Braço"
+
+#: includes/monturas.php:220
+#, fuzzy
+msgid "Brazo (mm)"
+msgstr "Braço (mm)"
+
+#: includes/proceso_compra_lentes_contacto.php:45
+#: includes/proceso_compra_lentes_contacto.php:129
+#: includes/proceso_compra_lentes_contacto.php:306
+#: includes/proceso_compra_lentes_contacto.php:469
+#, fuzzy
+msgid "Cajas Ojo Derecho"
+msgstr "Caixas de olho direito"
+
+#: includes/proceso_compra_lentes_contacto.php:49
+#: includes/proceso_compra_lentes_contacto.php:130
+#: includes/proceso_compra_lentes_contacto.php:307
+#: includes/proceso_compra_lentes_contacto.php:476
+#, fuzzy
+msgid "Cajas Ojo Izquierdo"
+msgstr "Caixas de olhos esquerdos"
+
+#: includes/proceso_compra.php:191
+msgid "Campo obligatorio"
+msgstr "Campo inválido"
+
+#: includes/plantilla_formula.php:296 includes/plantilla_formula.php:345
+#: includes/plantilla_formula.php:848 includes/plantilla_formula.php:903
+#: templates/proceso_compra/configurar_formula.php:200
+#: templates/proceso_compra/configurar_formula.php:245
+#: templates/proceso_compra/configurar_formula.php:278
+#: templates/proceso_compra/configurar_formula.php:328
+#: templates/proceso_compra/configurar_formula.php:354
+#: templates/proceso_compra/configurar_formula.php:381
+#: templates/proceso_compra/configurar_formula_opcion_2.php:257
+msgid "Cancelar"
+msgstr "Cancelar"
+
+#: includes/lentes_contacto.php:66
+#: templates/proceso_compra/configurar_formula_opcion_2.php:228
+#, fuzzy
+msgid "CARACTERÍSTICAS DE LENTES"
+msgstr "CARACTERÍSTICAS DA LENTE"
+
+#: includes/proceso_compra.php:132
+#, fuzzy
+msgid "Característica de lentes"
+msgstr "Recurso de lente"
+
+#: includes/proceso_compra.php:561
+#, fuzzy
+msgid "Características de lentes"
+msgstr "Características da lente"
+
+#: tecno-opticas.php:363 tecno-opticas.php:381
+#: admin/formulas_lentes_contacto.php:212
+#: admin/formulas_lentes_contacto.php:264 admin/formulas.php:195
+#: admin/formulas.php:247 admin/formulas.php:298 admin/formulas.php:364
+#: admin/formulas.php:425 admin/formulas.php:491 admin/formulas.php:552
+#: admin/formulas.php:618 includes/proceso_compra.php:965
+#: includes/proceso_compra.php:993 includes/plantilla_formula.php:319
+#: includes/plantilla_formula.php:432 includes/plantilla_formula.php:859
+msgid "Cilindro"
+msgstr "Cilindro"
+
+#: includes/proceso_compra.php:76 includes/proceso_compra.php:456
+#, fuzzy
+msgid "Cilindro ojo Der"
+msgstr "Der de olho de cilindro"
+
+#: includes/plantilla_formula.php:402 includes/plantilla_formula.php:825
+#: includes/proceso_compra_lentes_contacto.php:29
+#: includes/proceso_compra_lentes_contacto.php:272
+#: includes/proceso_compra_lentes_contacto.php:441
+#, fuzzy
+msgid "Cilindro Ojo Derecho"
+msgstr "Cilindro do Olho Direito"
+
+#: includes/proceso_compra.php:92 includes/proceso_compra.php:484
+#, fuzzy
+msgid "Cilindro ojo Izq"
+msgstr "Cilindro do olho esquerdo"
+
+#: includes/plantilla_formula.php:415 includes/plantilla_formula.php:837
+#: includes/proceso_compra_lentes_contacto.php:33
+#: includes/proceso_compra_lentes_contacto.php:273
+#: includes/proceso_compra_lentes_contacto.php:448
+#, fuzzy
+msgid "Cilindro Ojo Izquierdo"
+msgstr "Cilindro do Olho Esquerdo"
+
+#: tecno-opticas.php:979
+#, fuzzy
+msgid "Clave API no válida"
+msgstr "Chave de API inválida"
+
+#: tecno-opticas.php:986
+#, fuzzy
+msgid "Clave de licencia activada"
+msgstr "Chave de licença ativada"
+
+#: tecno-opticas.php:1014
+#, fuzzy
+msgid "Clave de licencia caducada"
+msgstr "Chave de licença expirada"
+
+#: tecno-opticas.php:993
+#, fuzzy
+msgid "Clave de licencia desactivada"
+msgstr "Chave de licença desativada"
+
+#: tecno-opticas.php:972
+#, fuzzy
+msgid "Clave de licencia inválida"
+msgstr "Chave de licença inválida"
+
+#: tecno-opticas.php:1007
+#, fuzzy
+msgid "Clave de licencia válida"
+msgstr "Chave de licença válida"
+
+#: tecno-opticas.php:1000
+#, fuzzy
+msgid "Clave de licencia ya inactiva"
+msgstr "Chave de licença agora inativa"
+
+#: includes/lentes.php:414 includes/lentes.php:427
+msgid "Color"
+msgstr "Cor"
+
+#: includes/proceso_compra.php:140 includes/proceso_compra.php:540
+#, fuzzy
+msgid "Comentario"
+msgstr "Comentário"
+
+#: templates/proceso_compra/configurar_formula.php:150
+#: templates/proceso_compra/configurar_formula_opcion_2.php:156
+#, fuzzy
+msgid "CONFIGURACIÓN DE GAFAS CON LENTES FORMULADOS"
+msgstr "CONFIGURAÇÃO DE ÓCULOS COM LENTES FORMULADAS"
+
+#: admin/ajustes.php:152
+#, fuzzy
+msgid "Configuración de mensajes para el proceso de compra"
+msgstr "Configuração de mensagens para o processo de compra"
+
+#: admin/ajustes_whatsapp.php:70 admin/ajustes_modulo.php:181
+#: admin/descripcion_tipos.php:64 admin/ajustes.php:143
+#: includes/opciones.php:26
+#, fuzzy
+msgid "Configuración de WhatsApp"
+msgstr "Configurações do WhatsApp"
+
+#: admin/ajustes_whatsapp.php:75
+#, fuzzy
+msgid "Configuración de Whatsapp"
+msgstr "Configurações do Whatsapp"
+
+#: admin/ajustes_whatsapp.php:52
+#, fuzzy
+msgid "Configuración de Whatsapp guardados exitosamente"
+msgstr "Configurações de Whatsapp salvas com sucesso"
+
+#: admin/ajustes_modulo.php:190
+#, fuzzy
+msgid "Configuración del módulo"
+msgstr "Configuração do módulo"
+
+#: includes/lentes.php:36
+#, fuzzy
+msgid "Configurar Fórmulas"
+msgstr "Configurar fórmulas"
+
+#: includes/lentes_contacto.php:18
+#, fuzzy
+msgid "Configurar lente de contacto"
+msgstr "Configurar lente de contato"
+
+#: includes/proceso_compra_lentes_contacto.php:176
+#, fuzzy
+msgid "CONTACTO WHATSAPP <i class=\"fa fa fa-whatsapp\"></i>"
+msgstr "CONTATO WHATSAPP <i class=\"fa fa fa-whatsapp\"></i>"
+
+#: includes/proceso_compra_lentes_contacto.php:339
+#, fuzzy
+msgid "CONTACTO WHATSAPP <i class=\"fab fa-whatsapp\"></i>"
+msgstr "CONTATO WHATSAPP <i class=\"fab fa-whatsapp\"></i>"
+
+#: templates/proceso_compra/configurar_formula.php:197
+#: templates/proceso_compra/configurar_formula.php:242
+#: templates/proceso_compra/configurar_formula.php:275
+#: templates/proceso_compra/configurar_formula.php:299
+#: templates/proceso_compra/configurar_formula.php:325
+#: templates/proceso_compra/configurar_formula.php:351
+#: templates/proceso_compra/configurar_formula.php:378
+#: templates/proceso_compra/configurar_formula_opcion_2.php:251
+#: templates/proceso_compra/configurar_formula_opcion_2.php:252
+#: templates/proceso_compra/configurar_formula_opcion_2.php:253
+#: templates/proceso_compra/configurar_formula_opcion_2.php:254
+msgid "Continuar"
+msgstr "Continuar"
+
+#: includes/proceso_compra.php:329
+#, fuzzy
+msgid "Debe indicar si desea comprar la montura formulada o no."
+msgstr "Você precisa indicar se quer comprar o quadro formulado ou não."
+
+#: admin/ajustes_modulo.php:224 admin/descripcion_tipos.php:83
+#: includes/lentes.php:75 includes/plantilla_formula.php:193
+#: includes/plantilla_formula.php:767
+#, fuzzy
+msgid "Descanso"
+msgstr "Descansar"
+
+#: admin/descripcion_tipos.php:46
+#, fuzzy
+msgid "Descripciones guardadas exitosamente"
+msgstr "Descrições salvas com sucesso"
+
+#: admin/ajustes.php:182
+#, fuzzy
+msgid "Descripción para el PASO 1"
+msgstr "Descrição para PASSO 1"
+
+#: admin/ajustes.php:198
+#, fuzzy
+msgid "Descripción para el PASO 2"
+msgstr "Descrição para PASSO 2"
+
+#: admin/ajustes.php:214
+#, fuzzy
+msgid "Descripción para el PASO 3"
+msgstr "Descrição para PASSO 3"
+
+#: admin/ajustes.php:230
+#, fuzzy
+msgid "Descripción para el PASO 4"
+msgstr "Descrição para PASSO 4"
+
+#: admin/ajustes.php:246
+#, fuzzy
+msgid "Descripción para el PASO 5"
+msgstr "Descrição para PASSO 5"
+
+#: admin/ajustes.php:262
+#, fuzzy
+msgid "Descripción para el PASO 6"
+msgstr "Descrição para PASSO 6"
+
+#: admin/ajustes.php:278
+#, fuzzy
+msgid "Descripción para el PASO 7"
+msgstr "Descrição para PASSO 7"
+
+#: admin/ajustes_whatsapp.php:68 admin/ajustes_modulo.php:179
+#: admin/descripcion_tipos.php:62 admin/ajustes.php:141
+#: includes/opciones.php:24
+#, fuzzy
+msgid "Descripción Tipos de Visión"
+msgstr "Tipos de Visão de Descrição"
+
+#: includes/monturas.php:169
+#, fuzzy
+msgid "Dimensiones de la montura"
+msgstr "Dimensões do quadro"
+
+#: includes/proceso_compra.php:104 includes/proceso_compra.php:512
+#, fuzzy
+msgid "Distancia pupilar"
+msgstr "Distância pupilar"
+
+#: includes/opciones.php:17
+#, fuzzy
+msgid "Documentación"
+msgstr "Documentação"
+
+#: includes/lentes.php:334
+#, fuzzy
+msgid "Editar Filtro"
+msgstr "Editar filtro"
+
+#: includes/plantilla_formula.php:53 includes/plantilla_formula.php:66
+#: includes/plantilla_formula.php:79 includes/plantilla_formula.php:92
+#: includes/plantilla_formula.php:105
+#, fuzzy
+msgid "Editar plantilla"
+msgstr "Editar modelo"
+
+#: tecno-opticas.php:367 tecno-opticas.php:385
+#: admin/formulas_lentes_contacto.php:226
+#: admin/formulas_lentes_contacto.php:274 admin/formulas.php:209
+#: admin/formulas.php:257 admin/formulas.php:326 admin/formulas.php:384
+#: admin/formulas.php:453 admin/formulas.php:511 admin/formulas.php:580
+#: admin/formulas.php:638 includes/proceso_compra.php:969
+#: includes/proceso_compra.php:994 includes/plantilla_formula.php:320
+#: includes/plantilla_formula.php:433 includes/plantilla_formula.php:860
+msgid "Eje"
+msgstr "Eixo"
+
+#: includes/proceso_compra.php:80 includes/proceso_compra.php:463
+#, fuzzy
+msgid "Eje ojo Der"
+msgstr "Eixo ocular Der"
+
+#: includes/plantilla_formula.php:406 includes/plantilla_formula.php:829
+#: includes/proceso_compra_lentes_contacto.php:37
+#: includes/proceso_compra_lentes_contacto.php:289
+#: includes/proceso_compra_lentes_contacto.php:455
+#, fuzzy
+msgid "Eje Ojo Derecho"
+msgstr "Eixo olho direito"
+
+#: includes/proceso_compra.php:96 includes/proceso_compra.php:491
+#, fuzzy
+msgid "Eje ojo Izq"
+msgstr "Eixo do olho esquerdo"
+
+#: includes/plantilla_formula.php:419 includes/plantilla_formula.php:841
+#: includes/proceso_compra_lentes_contacto.php:41
+#: includes/proceso_compra_lentes_contacto.php:290
+#: includes/proceso_compra_lentes_contacto.php:462
+#, fuzzy
+msgid "Eje Ojo Izquierdo"
+msgstr "Eixo do Olho Esquerdo"
+
+#: tecno-opticas.php:108
+#, fuzzy, php-format
+msgid "El estado de su licencia es <strong>%s</strong>"
+msgstr "Seu status de licença é <strong>%s</strong>"
+
+#: admin/configuracion.php:15
+#, fuzzy
+msgid ""
+"El plugin de forma automatica integra en la <strong>Página de mi cuenta</"
+"strong> de Woocommerce un tab llamado <strong>Autenticación en dos factores</"
+"strong>"
+msgstr ""
+"O plugin integra automaticamente uma guia chamada <strong>Autenticação de "
+"Dois Fatores</strong> na minha <strong>página da conta</strong> woocommerce"
+
+#: includes/plantilla_formula.php:54 includes/plantilla_formula.php:67
+#: includes/plantilla_formula.php:80 includes/plantilla_formula.php:93
+#: includes/plantilla_formula.php:106
+#, fuzzy
+msgid "Eliminar plantilla"
+msgstr "Excluir modelo"
+
+#: includes/proceso_compra.php:1428
+#, fuzzy
+msgid "En este momento no hay productos"
+msgstr "Neste momento não há produtos"
+
+#: tecno-opticas.php:359 tecno-opticas.php:377
+#: admin/formulas_lentes_contacto.php:142
+#: admin/formulas_lentes_contacto.php:170
+#: admin/formulas_lentes_contacto.php:198
+#: admin/formulas_lentes_contacto.php:254 admin/formulas.php:181
+#: admin/formulas.php:237 admin/formulas.php:284 admin/formulas.php:354
+#: admin/formulas.php:411 admin/formulas.php:481 admin/formulas.php:538
+#: admin/formulas.php:608 includes/proceso_compra.php:961
+#: includes/proceso_compra.php:992 includes/plantilla_formula.php:318
+#: includes/plantilla_formula.php:431 includes/plantilla_formula.php:858
+msgid "Esfera"
+msgstr "Esfera"
+
+#: includes/proceso_compra.php:72 includes/proceso_compra.php:449
+#, fuzzy
+msgid "Esfera ojo Der"
+msgstr "Esfera ocular Der"
+
+#: includes/plantilla_formula.php:398 includes/plantilla_formula.php:821
+#: includes/proceso_compra_lentes_contacto.php:21
+#: includes/proceso_compra_lentes_contacto.php:112
+#: includes/proceso_compra_lentes_contacto.php:255
+#: includes/proceso_compra_lentes_contacto.php:427
+#, fuzzy
+msgid "Esfera Ojo Derecho"
+msgstr "Esfera do Olho Direito"
+
+#: includes/proceso_compra.php:88 includes/proceso_compra.php:477
+#, fuzzy
+msgid "Esfera ojo Izq"
+msgstr "Esfera do olho esquerdo"
+
+#: includes/plantilla_formula.php:411 includes/plantilla_formula.php:833
+#: includes/proceso_compra_lentes_contacto.php:25
+#: includes/proceso_compra_lentes_contacto.php:113
+#: includes/proceso_compra_lentes_contacto.php:256
+#: includes/proceso_compra_lentes_contacto.php:434
+#, fuzzy
+msgid "Esfera Ojo Izquierdo"
+msgstr "Discagem do olho esquerdo"
+
+#: tecno-opticas.php:439 tecno-opticas.php:476 includes/proceso_compra.php:1029
+#, fuzzy
+msgid "ESPECIFICACIONES DE FÓRMULA"
+msgstr "ESPECIFICAÇÕES DA FÓRMULA"
+
+#: admin/documentacion.php:15
+#, fuzzy
+msgid ""
+"Este módulo permite configurar dentro de su comercio electrónico productos "
+"tipo monturas formuladas, lentes y lentes de contacto cada uno con su rango "
+"de fórmula."
+msgstr ""
+"Este módulo permite configurar dentro de seus produtos de e-commerce, como "
+"armações formuladas, lentes e lentes de contato cada uma com sua gama de "
+"fórmulas."
+
+#: includes/monturas.php:417
+#, fuzzy
+msgid ""
+"Estimado cliente esa imagen no puede ser usada para las siluetas por favor "
+"sube la imagen nuevamente."
+msgstr ""
+"Caro cliente essa imagem não pode ser usada para silhuetas, por favor, "
+"carregue a imagem novamente."
+
+#: includes/monturas.php:527
+#, fuzzy
+msgid ""
+"Estimado cliente esa imagen no puede ser usada para las siluetas por favor "
+"sube la imagen nuevamente. "
+msgstr ""
+"Caro cliente essa imagem não pode ser usada para silhuetas, por favor, "
+"carregue a imagem novamente. "
+
+#: admin/ajustes_modulo.php:202
+#, fuzzy
+msgid "Excluir los productos que estén fuera de rango por la fórmula"
+msgstr "Exclua produtos que estão fora de alcance pela fórmula"
+
+#: includes/lentes.php:332
+#, fuzzy
+msgid "Filtro"
+msgstr "Filtro"
+
+#: includes/lentes.php:333 includes/opciones.php:20
+msgid "Filtros"
+msgstr "Filtros"
+
+#: includes/lentes.php:56
+#, fuzzy
+msgid "Filtros para Lentes"
+msgstr "Filtros de lente"
+
+#: includes/proceso_compra.php:128 includes/proceso_compra.php:554
+#: includes/plantilla_formula.php:307 includes/plantilla_formula.php:887
+#, fuzzy
+msgid "Fórmula"
+msgstr "Fórmula"
+
+#: includes/opciones.php:18
+#, fuzzy
+msgid "Fórmulas"
+msgstr "Fórmulas"
+
+#: includes/opciones.php:19
+#, fuzzy
+msgid "Fórmulas para lentes de contacto"
+msgstr "Fórmulas de lente de contato"
+
+#: includes/proceso_compra.php:1404
+#, fuzzy
+msgid "Gama Alta:"
+msgstr "High-end:"
+
+#: includes/proceso_compra.php:1362
+#, fuzzy
+msgid "Gama Baja:"
+msgstr "Baixo alcance:"
+
+#: includes/lentes.php:214
+#, fuzzy
+msgid "Gama del Lente"
+msgstr "Alcance das lentes"
+
+#: includes/proceso_compra.php:1383
+#, fuzzy
+msgid "Gama Media:"
+msgstr "De médio alcance:"
+
+#: includes/proceso_compra.php:317
+#, fuzzy
+msgid "Genero:"
+msgstr "Gênero:"
+
+#: includes/plantilla_formula.php:295 includes/plantilla_formula.php:344
+#: includes/plantilla_formula.php:847 includes/plantilla_formula.php:902
+msgid "Guardar"
+msgstr "Salvar"
+
+#: admin/formulas_lentes_contacto.php:157
+#: admin/formulas_lentes_contacto.php:241 admin/ajustes_whatsapp.php:108
+#: admin/ajustes_modulo.php:321 admin/formulas.php:224 admin/formulas.php:341
+#: admin/formulas.php:468 admin/formulas.php:595
+#: admin/descripcion_tipos.php:152 admin/ajustes.php:386
+#, fuzzy
+msgid "Guardar los cambios"
+msgstr "Salve suas mudanças"
+
+#: includes/proceso_compra.php:301
+#, fuzzy
+msgid "Guía de tamaños:"
+msgstr "Guia de tamanho:"
+
+#: includes/monturas.php:153
+#, fuzzy
+msgid "Género"
+msgstr "Gênero"
+
+#: includes/monturas.php:289 includes/monturas.php:290
+#: includes/monturas.php:291
+#, fuzzy
+msgid "Géneros para las monturas"
+msgstr "Gêneros para quadros"
+
+#: admin/ajustes_modulo.php:305
+#, fuzzy
+msgid "Habilitar Campo del altura en el proceso de compra"
+msgstr "Habilitar o campo Height no processo de compra"
+
+#. URI of the plugin
+#. Author URI of the plugin
+#, fuzzy
+msgid "https://tecnosoluciones.com"
+msgstr "https://tecnosoluciones.com"
+
+#: admin/licencia.php:39
+#, fuzzy
+msgid "Ingrese el código de su licencia"
+msgstr "Digite seu código de licença"
+
+#: includes/monturas.php:374 includes/monturas.php:484
+#, fuzzy
+msgid ""
+"La imagen de la silueta debe tener un tamaño de 60 de ancho por 25 de alto."
+msgstr "A imagem da silhueta deve ter 60 de largura por 25 cm de altura."
+
+#: includes/monturas.php:222
+#, fuzzy
+msgid "Largo del brazo en mm"
+msgstr "Comprimento do braço em mm"
+
+#: includes/proceso_compra.php:277
+#, fuzzy
+msgid ""
+"Le sugerimos que mida las dimensiones de su montura para asegurarse de que "
+"tiene el mejor ajuste para su cara."
+msgstr ""
+"Sugerimos que você meça as dimensões do seu quadro para ter certeza de que "
+"ele tem o melhor ajuste para o seu rosto."
+
+#: includes/opciones.php:19
+#, fuzzy
+msgid "Lentes de contacto"
+msgstr "Lentes de contato"
+
+#: includes/lentes_contacto.php:79
+#, fuzzy
+msgid "Lentes tintados"
+msgstr "Lentes coloridas"
+
+#: tecno-opticas.php:49
+#, fuzzy
+msgid "Licencia no Activa"
+msgstr "Licença não ativa"
+
+#: admin/licencia.php:46
+#, fuzzy
+msgid "License Key"
+msgstr "Chave de licença"
+
+#: includes/proceso_compra.php:1432
+#, fuzzy
+msgid "LISTADO DE LENTES"
+msgstr "LISTA DE LENTES"
+
+#: includes/lentes.php:226
+#, fuzzy
+msgid "Marca"
+msgstr "Marca"
+
+#: includes/lentes.php:597 includes/lentes.php:598
+#, fuzzy
+msgid "Marcas de lentes"
+msgstr "Marcas de lentes"
+
+#: includes/lentes.php:596
+#, fuzzy
+msgid "Marcas del lente"
+msgstr "Marcas de lentes"
+
+#: includes/lentes.php:281
+#, fuzzy, php-format
+msgid "Marque esta opción si sus lentes poseen el filtro %s"
+msgstr "Verifique esta opção se suas lentes têm o filtro %s"
+
+#: includes/lentes_contacto.php:81
+#, fuzzy
+msgid "Marque la opción correspondiente al tipo de lente de contacto"
+msgstr "Verifique a opção correspondente ao tipo de lente de contato"
+
+#: includes/monturas.php:144
+msgid "Material"
+msgstr "Material"
+
+#: includes/monturas.php:245 includes/monturas.php:246
+#: includes/monturas.php:247
+#, fuzzy
+msgid "Materiales para las monturas"
+msgstr "Materiais para as molduras"
+
+#: includes/lentes.php:208
+#, fuzzy
+msgid "Media"
+msgstr "Meia"
+
+#: includes/proceso_compra.php:261
+#, fuzzy
+msgid "Medidas de la Lente"
+msgstr "Medições de lentes"
+
+#: includes/proceso_compra.php:238
+#, fuzzy
+msgid "Medidas del marco"
+msgstr "Medidas-quadro"
+
+#: includes/proceso_compra.php:230
+#, fuzzy
+msgid "Medidas para la montura: "
+msgstr "Medidas para o quadro: "
+
+#: admin/ajustes.php:304
+#, fuzzy
+msgid "Mensaje 1"
+msgstr "Mensagem 1"
+
+#: admin/ajustes.php:312
+#, fuzzy
+msgid "Mensaje 2"
+msgstr "Mensagem 2"
+
+#: admin/ajustes.php:320
+#, fuzzy
+msgid "Mensaje 3"
+msgstr "Mensagem 3"
+
+#: admin/ajustes.php:328
+#, fuzzy
+msgid "Mensaje 4"
+msgstr "Mensagem 4"
+
+#: admin/ajustes.php:336
+#, fuzzy
+msgid "Mensaje 5"
+msgstr "Mensagem 5"
+
+#: admin/ajustes.php:344
+#, fuzzy
+msgid "Mensaje 6"
+msgstr "Mensagem 6"
+
+#: admin/ajustes.php:286
+#, fuzzy
+msgid "Mensaje de error en el PASO 2"
+msgstr "Mensagem de erro no PASSO 2"
+
+#: admin/ajustes_whatsapp.php:97
+#, fuzzy
+msgid "Mensaje de WhatsApp"
+msgstr "Mensagem do WhatsApp"
+
+#: admin/ajustes.php:368
+#, fuzzy
+msgid "Mensaje error plantilla"
+msgstr "Modelo de erro de mensagem"
+
+#: admin/ajustes.php:352
+#, fuzzy
+msgid "Mensaje error tintura"
+msgstr "Tintura de erro de mensagem"
+
+#: admin/ajustes.php:360
+#, fuzzy
+msgid "Mensaje error tonalidad"
+msgstr "Mensagem de erro de tonalidade"
+
+#: admin/ajustes.php:296
+#, fuzzy
+msgid "Mensaje inicial"
+msgstr "Mensagem inicial"
+
+#: admin/ajustes.php:376
+#, fuzzy
+msgid "Mensaje proceso listo"
+msgstr "Mensagem de processo pronta"
+
+#: admin/ajustes_whatsapp.php:69 admin/ajustes_modulo.php:180
+#: admin/descripcion_tipos.php:63 admin/ajustes.php:70 admin/ajustes.php:142
+#: includes/opciones.php:25
+msgid "Mensajes"
+msgstr "Mensagens"
+
+#: includes/lentes_contactos_administracion.php:38
+#: includes/lentes_contactos_administracion.php:104
+#: includes/lentes_contacto.php:77
+#, fuzzy
+msgid "Miopia o Hipermetropía"
+msgstr "Miopia ou Hiperopia"
+
+#: admin/formulas_lentes_contacto.php:118
+#, fuzzy
+msgid "Miopía o Hipermetropía"
+msgstr "Miopia ou Hiperopia"
+
+#: includes/proceso_compra.php:196
+msgid "No"
+msgstr "Não"
+
+#: admin/configuracion.php:9 admin/formulas_lentes_contacto.php:8
+#: admin/documentacion.php:8 admin/ajustes_whatsapp.php:9
+#: admin/ajustes_modulo.php:8 admin/licencia.php:9 admin/formulas.php:8
+#: admin/descripcion_tipos.php:9 admin/ajustes.php:8
+#, fuzzy
+msgid "No tienes suficientes permisos para acceder a esta página."
+msgstr "Você não tem permissões suficientes para acessar esta página."
+
+#: includes/proceso_compra.php:116 includes/proceso_compra.php:526
+#: includes/plantilla_formula.php:808 includes/plantilla_formula.php:884
+#, fuzzy
+msgid "Nombre de la plantilla"
+msgstr "Nome do modelo"
+
+#: includes/lentes.php:335
+#, fuzzy
+msgid "Nuevo Filtro"
+msgstr "Novo filtro"
+
+#: admin/ajustes_whatsapp.php:88
+#, fuzzy
+msgid "Número de Whatsapp"
+msgstr "Número de Whatsapp"
+
+#: tecno-opticas.php:645
+#, fuzzy
+msgid ""
+"Observamos datos incoherentes en la formula, ¿Seguro que ingresaste los "
+"datos correctos? Si crees que todo está bien presiona el botón Aceptar, de "
+"lo contrario por favor corrige la fórmula."
+msgstr ""
+"Observamos dados inconsistentes na fórmula, tem certeza de que inseriu os "
+"dados corretos? Se você acha que está tudo bem pressione o botão OK, caso "
+"contrário, corrija a fórmula."
+
+#: admin/ajustes_modulo.php:268 admin/formulas.php:156
+#: admin/descripcion_tipos.php:138 includes/lentes.php:79
+#: includes/plantilla_formula.php:217 includes/plantilla_formula.php:791
+#, fuzzy
+msgid "Ocupacionales"
+msgstr "Ocupacional"
+
+#: includes/plantilla_formula.php:438
+#, fuzzy
+msgid "Ojo Der"
+msgstr "Eye Der"
+
+#: tecno-opticas.php:356 includes/proceso_compra.php:1000
+#, fuzzy
+msgid "Ojo Derecho"
+msgstr "Olho direito"
+
+#: includes/plantilla_formula.php:445
+#, fuzzy
+msgid "Ojo Izq"
+msgstr "Olho Esquerdo"
+
+#: tecno-opticas.php:374 includes/proceso_compra.php:958
+#: includes/proceso_compra.php:1007
+#, fuzzy
+msgid "Ojo Izquierdo"
+msgstr "Olho Esquerdo"
+
+#: includes/opciones.php:22
+#, fuzzy
+msgid "Opciones de Filtros"
+msgstr "Opções de filtro"
+
+#: includes/lentes.php:356
+#, fuzzy
+msgid "Opciones de filtros"
+msgstr "Opções de filtro"
+
+#: includes/lentes.php:312 includes/lentes.php:396
+#, fuzzy
+msgid "Opciones del filtro"
+msgstr "Opções de filtro"
+
+#: admin/ajustes_modulo.php:291
+msgid "Opción 1"
+msgstr "Opção 1"
+
+#: admin/ajustes_modulo.php:292
+#, fuzzy
+msgid "Opción 2"
+msgstr "Opção 2"
+
+#: includes/lentes.php:355 includes/lentes.php:357
+#, fuzzy
+msgid "Opción del filtro"
+msgstr "Opção de filtro"
+
+#: admin/ajustes.php:98
+#, fuzzy
+msgid ""
+"Oye, te faltó la plantilla de la fórmula, pero tranquilo está en rojo para "
+"señalártelo, recuerda hacer clic en el botón confirmar fórmula."
+msgstr ""
+"Ei, você estava perdendo o modelo de fórmula, mas calma é vermelho para "
+"apontá-lo, lembre-se de clicar no botão de fórmula confirmar."
+
+#: admin/ajustes.php:70
+#, fuzzy
+msgid "para el proceso de compra almacenados correctamente"
+msgstr "para o processo de compra armazenado corretamente"
+
+#: admin/ajustes_modulo.php:99
+#, fuzzy
+msgid "para el proceso de compra guardado correctamente"
+msgstr "para o processo de compra salvo corretamente"
+
+#: tecno-opticas.php:57
+#, fuzzy, php-format
+msgid ""
+"Para poder activar el módulo <strong>%s</strong>, necesita tener instalado "
+"primero Woocommerce"
+msgstr ""
+"Para ativar o módulo <strong>%s</strong>, você precisa ter woocommerce "
+"instalado primeiro"
+
+#: tecno-opticas.php:627
+#, fuzzy
+msgid ""
+"Para tu comodidad en el futuro, por favor selecciona un nombre para tu "
+"plantilla y haz clic en el botón Continuar."
+msgstr ""
+"Para sua conveniência no futuro, selecione um nome para o seu modelo e "
+"clique no botão Continuar."
+
+#: tecno-opticas.php:1021
+#, fuzzy
+msgid "Parámetros no válidos"
+msgstr "Parâmetros inválidos"
+
+#: admin/ajustes.php:174
+#, fuzzy
+msgid "PASO 1"
+msgstr "PASSO 1"
+
+#: tecno-opticas.php:561
+#, fuzzy
+msgid "PASO 1: Plantilla Previa"
+msgstr "PASSO 1: Modelo anterior"
+
+#: admin/ajustes.php:190
+#, fuzzy
+msgid "PASO 2"
+msgstr "PASSO 2"
+
+#: tecno-opticas.php:573
+#, fuzzy
+msgid "PASO 2: Tipo de Lentes"
+msgstr "PASSO 2: Tipo de Lentes"
+
+#: admin/ajustes.php:206
+#, fuzzy
+msgid "PASO 3"
+msgstr "PASSO 3"
+
+#: tecno-opticas.php:585
+#, fuzzy
+msgid "PASO 3: Filtros"
+msgstr "PASSO 3: Filtros"
+
+#: admin/ajustes.php:222
+#, fuzzy
+msgid "PASO 4"
+msgstr "PASSO 4"
+
+#: tecno-opticas.php:597
+#, fuzzy
+msgid "PASO 4: Marca y Modelo de Lentes"
+msgstr "PASSO 4: Marca e Modelo de Lentes"
+
+#: admin/ajustes.php:238
+#, fuzzy
+msgid "PASO 5"
+msgstr "PASSO 5"
+
+#: tecno-opticas.php:609
+#, fuzzy
+msgid "PASO 5: Comentarios"
+msgstr "PASSO 5: Comentários"
+
+#: admin/ajustes.php:254
+#, fuzzy
+msgid "PASO 6"
+msgstr "PASSO 6"
+
+#: tecno-opticas.php:621
+#, fuzzy
+msgid "PASO 6: Crear Plantilla"
+msgstr "PASSO 6: Criar modelo"
+
+#: admin/ajustes.php:270
+#, fuzzy
+msgid "PASO 7"
+msgstr "PASSO 7"
+
+#: tecno-opticas.php:633
+#, fuzzy
+msgid "PASO 7: Confirmación"
+msgstr "PASSO 7: Confirmação"
+
+#: includes/monturas.php:231
+#, fuzzy
+msgid "Peso (g)"
+msgstr "Peso (g)"
+
+#: includes/plantilla_formula.php:125
+#, fuzzy
+msgid "Plantilla"
+msgstr "Modelo"
+
+#: templates/proceso_compra/configurar_formula.php:55
+#: templates/proceso_compra/configurar_formula.php:108
+#: templates/proceso_compra/configurar_formula_opcion_2.php:55
+#: templates/proceso_compra/configurar_formula_opcion_2.php:108
+#, fuzzy
+msgid "Plantilla de Fórmula"
+msgstr "Modelo de Fórmula"
+
+#: includes/plantilla_formula.php:27
+#, fuzzy
+msgid "Plantillas de fórmulas"
+msgstr "Modelos de fórmula"
+
+#: tecno-opticas.php:615
+#, fuzzy
+msgid ""
+"Por favor escribe cualquier comentario que desees agregar a tu pedido y "
+"luego haz clic en el botón Continuar."
+msgstr ""
+"Digite todos os comentários que deseja adicionar ao seu pedido e clique no "
+"botão Continuar."
+
+#: includes/lentes_contacto.php:75
+#, fuzzy
+msgid "Por favor indique la característica para el lente de contacto"
+msgstr "Por favor, indique o recurso para a lente de contato"
+
+#: includes/proceso_compra.php:1346
+#, fuzzy
+msgid "Por favor ingrese un nombre para identificar la fórmula"
+msgstr "Digite um nome para identificar a fórmula"
+
+#: tecno-opticas.php:603
+#, fuzzy
+msgid ""
+"Por favor lee bien la información en pantalla acerca de los parámetros "
+"asociados a los lentes. Luego, escoge la marca y el modelo de lente que "
+"desees. Para ver los lentes disponibles, mueve la barra lateral hacia abajo."
+msgstr ""
+"Leia atentamente as informações na tela sobre os parâmetros associados às "
+"lentes. Então, escolha a marca e o modelo de lente que você quer. Para ver "
+"as lentes disponíveis, mova a barra lateral para baixo."
+
+#: admin/ajustes.php:91
+#, fuzzy
+msgid ""
+"Por favor lee el proceso indicado arriba para que conozcas cómo vamos a "
+"configurar tu montura formulada. Luego haz clic en el botón Continuar."
+msgstr ""
+"Leia o processo acima para saber como vamos configurar sua montagem "
+"formulada. Em seguida, clique no botão Continuar."
+
+#: tecno-opticas.php:541
+#, fuzzy
+msgid ""
+"Por favor lee el proceso indicado arriba para que conozcas cómo vamos a "
+"configurar tus gafas con lentes formulados. Luego haz clic en el botón "
+"Continuar.\n"
+"\n"
+"        <strong>Para el proceso de configuración de tus gafas con lentes "
+"formulados, por favor toma en cuenta lo siguiente:</strong>\n"
+"        <ol>\n"
+"            <li>Seleccionar el tipo de lente. Si te aparece la casilla "
+"<strong>Plantilla de Fórmula</strong>, puedes además escoger alguna de tus "
+"fórmulas que hayas guardado previamente.</li>\n"
+"            <li>Llenar todos los campos de tu fórmula y subir la "
+"prescripción de tu optómetra.</li>\n"
+"            <li>Seleccionar las características de los lentes.</li>\n"
+"            <li>Seleccionar de la lista de lentes, el que más se ajusta a "
+"tus preferencias.</li>\n"
+"            <li>Si quieres reutilizar la fórmula posteriormente, asigna un "
+"nombre a la misma para generar la plantilla.</li>\n"
+"            <li>Luego de cumplir todos los pasos anteriores, haz clic en el "
+"botón Comprar para agregar tu montura y los lentes al carrito de compra.</"
+"li>\n"
+"        </ol>"
+msgstr ""
+"Leia o processo acima para saber como vamos configurar seus óculos com "
+"lentes formuladas. Em seguida, clique no botão Continuar.\n"
+"\n"
+"        <strong>Para o processo de configuração de seus óculos com lentes "
+"formuladas, considere o seguinte:</strong>\n"
+"        <ol>\n"
+"            <li>Selecione o tipo de lente. Se você ver a caixa <strong>De "
+"modelo de fórmula</strong>, você também pode escolher uma de suas fórmulas "
+"que você já salvou anteriormente.</li>\n"
+"            <li>Preencha todos os campos da sua fórmula e carregue a receita "
+"do seu optometrista.</li>\n"
+"            <li>Selecione as características das lentes.</li>\n"
+"            <li>Selecione entre a lista de lentes, a que melhor se adequa às "
+"suas preferências.</li>\n"
+"            <li>Se você quiser reutilizar a fórmula mais tarde, nomeie-a "
+"para gerar o modelo.</li>\n"
+"            <li>Depois de completar todos os passos acima, clique no botão "
+"Comprar para adicionar seu quadro e lentes ao carrinho de compras.</li>\n"
+"        </ol>"
+
+#: tecno-opticas.php:441 includes/proceso_compra.php:1033
+#, fuzzy
+msgid ""
+"Por favor llene los datos que se muestran a continuación. Todos los campos "
+"en rojo son obligatorios."
+msgstr ""
+"Preencha os detalhes mostrados abaixo. Todos os campos em vermelho são "
+"necessários."
+
+#: admin/ajustes_modulo.php:218
+#, fuzzy
+msgid ""
+"Por favor marque abajo los tipos de visión que desea habilitar en el módulo:"
+msgstr "Confira abaixo os tipos de visão que deseja ativar no módulo:"
+
+#: tecno-opticas.php:579
+#, fuzzy
+msgid ""
+"Por favor selecciona ahora uno de nuestros tipos de lentes, y luego si no "
+"son de Descanso, llena TODOS los campos de tu fórmula. Adicionalmente, te "
+"recomendamos cargar la imagen de la prescripción de la fórmula del Optómetra "
+"para verificarla. Una vez que hayas llenado todo, haz clic en el botón "
+"Continuar:"
+msgstr ""
+"Por favor, selecione um de nossos tipos de lentes agora e, em seguida, se "
+"eles não são Sleep, preencha TODOS os campos de sua fórmula. Além disso, "
+"recomendamos que você carregue a imagem prescrita da fórmula do Optometrista "
+"para verificar isso. Depois de preencher tudo, clique no botão Continuar:"
+
+#: tecno-opticas.php:591
+#, fuzzy
+msgid ""
+"Por favor selecciona el filtro del lente que prefieras, luego haz clic en el "
+"botón Continuar:"
+msgstr "Selecione o filtro de lente que preferir e clique no botão Continuar:"
+
+#: tecno-opticas.php:109
+#, fuzzy
+msgid ""
+"Por favor, compre una licencia para desbloquear el acceso a las "
+"actualizaciones, mejoras de seguridad, soporte en línea y documentación."
+msgstr ""
+"Por favor, compre uma licença para desbloquear acesso a atualizações, "
+"melhorias de segurança, suporte on-line e documentação."
+
+#: includes/monturas.php:32
+#, fuzzy
+msgid "Precio de la Montura"
+msgstr "Preço do Monte"
+
+#: includes/lentes.php:497
+#, fuzzy, php-format
+msgid "Precio del filtro (%s)"
+msgstr "Preço do filtro (%s)"
+
+#: includes/lentes.php:152
+#, fuzzy, php-format
+msgid "Precio EOC (%s)"
+msgstr "Preço do CEO (%s)"
+
+#: includes/lentes_contacto.php:35
+#, fuzzy, php-format
+msgid "Precio Lente (%s)"
+msgstr "Lente de preço (%s)"
+
+#: includes/monturas.php:59
+#, fuzzy, php-format
+msgid "Precio Montura (%s)"
+msgstr "Montagem de Preços (%s)"
+
+#: includes/lentes_contacto.php:51 includes/monturas.php:75
+#, fuzzy, php-format
+msgid "Precio Rebajado (%s)"
+msgstr "Preço reduzido (%s)"
+
+#: includes/proceso_compra.php:1372 includes/proceso_compra.php:1393
+#, fuzzy
+msgid "Precio:"
+msgstr "Preço:"
+
+#: includes/proceso_compra.php:1781
+#, fuzzy
+msgid "Proceso de compra Cancelado"
+msgstr "Processo de compra cancelado"
+
+#: admin/ajustes_modulo.php:257 admin/formulas.php:153
+#, fuzzy
+msgid "Progresivo"
+msgstr "Progressivo"
+
+#: admin/descripcion_tipos.php:110 includes/lentes.php:78
+#: includes/plantilla_formula.php:211 includes/plantilla_formula.php:785
+#, fuzzy
+msgid "Progresivos"
+msgstr "Progressivo"
+
+#: includes/proceso_compra.php:248
+#, fuzzy
+msgid "Puente"
+msgstr "Ponte"
+
+#: includes/monturas.php:187
+#, fuzzy
+msgid "Puente (mm)"
+msgstr "Ponte (mm)"
+
+#: admin/formulas_lentes_contacto.php:215
+msgid "rango alto de la cilindro"
+msgstr "alta gama de cilindros"
+
+#: admin/formulas_lentes_contacto.php:229
+msgid "rango alto de la eje"
+msgstr "alto alcance do eixo"
+
+#: admin/formulas_lentes_contacto.php:145
+#: admin/formulas_lentes_contacto.php:201
+msgid "rango alto de la esfera"
+msgstr "alto alcance de discagem"
+
+#: admin/formulas_lentes_contacto.php:218
+msgid "rango bajo de la cilindro"
+msgstr "baixo alcance do cilindro"
+
+#: admin/formulas_lentes_contacto.php:232
+msgid "rango bajo de la eje"
+msgstr "raixa distância do eixo"
+
+#: admin/formulas_lentes_contacto.php:148
+#: admin/formulas_lentes_contacto.php:204
+msgid "rango bajo de la esfera"
+msgstr "raixo alcance de discagem"
+
+#: admin/formulas.php:268
+#, fuzzy
+msgid "Rango de fórmulas para lentes Bifocales"
+msgstr "Gama de fórmulas para lentes bifocais"
+
+#: admin/formulas_lentes_contacto.php:182
+#, fuzzy
+msgid "Rango de fórmulas para lentes de contacto con visión Astigmatismo"
+msgstr "Gama de fórmulas para lentes de contato com visão Astigmatismo"
+
+#: admin/formulas_lentes_contacto.php:126
+#, fuzzy
+msgid ""
+"Rango de fórmulas para lentes de contacto con visión Miopía o Hipermetropía"
+msgstr "Gama de fórmulas para lentes de contato com visão Miopia ou Hyperopia"
+
+#: admin/formulas.php:165
+#, fuzzy
+msgid "Rango de fórmulas para lentes de Visión Sencilla"
+msgstr "Gama de fórmulas para lentes de Visão Única"
+
+#: admin/formulas.php:522
+#, fuzzy
+msgid "Rango de fórmulas para lentes Ocupacionales"
+msgstr "Gama de fórmulas para lentes ocupacionais"
+
+#: admin/formulas.php:395
+#, fuzzy
+msgid "Rango de fórmulas para lentes Progresivos"
+msgstr "Gama de fórmulas para lentes Progressivas"
+
+#: includes/lentes.php:540 includes/lentes.php:541
+#, fuzzy
+msgid "Rango mayor"
+msgstr "Maior alcance"
+
+#: includes/lentes.php:555 includes/lentes.php:556
+#, fuzzy
+msgid "Rango menor"
+msgstr "Classificação mais baixa"
+
+#: admin/formulas_lentes_contacto.php:136
+#: admin/formulas_lentes_contacto.php:192 admin/formulas.php:175
+#: admin/formulas.php:278 admin/formulas.php:405 admin/formulas.php:532
+#, fuzzy
+msgid "Rango más alto"
+msgstr "Mais alto posto"
+
+#: admin/formulas_lentes_contacto.php:137
+#: admin/formulas_lentes_contacto.php:193 admin/formulas.php:176
+#: admin/formulas.php:279 admin/formulas.php:406 admin/formulas.php:533
+#, fuzzy
+msgid "Rango más bajo"
+msgstr "Classificação mais baixa"
+
+#: admin/formulas_lentes_contacto.php:221
+msgid "salto de la cilindro"
+msgstr "salto de cilindro"
+
+#: admin/formulas_lentes_contacto.php:235
+msgid "salto de la eje"
+msgstr "salto de eixo"
+
+#: admin/formulas_lentes_contacto.php:151
+#: admin/formulas_lentes_contacto.php:207
+msgid "salto de la esfera"
+msgstr "salto de esfera"
+
+#: admin/formulas_lentes_contacto.php:151
+#: admin/formulas_lentes_contacto.php:207
+#: admin/formulas_lentes_contacto.php:221
+#: admin/formulas_lentes_contacto.php:235 admin/formulas.php:190
+#: admin/formulas.php:204 admin/formulas.php:218 admin/formulas.php:293
+#: admin/formulas.php:307 admin/formulas.php:321 admin/formulas.php:335
+#: admin/formulas.php:420 admin/formulas.php:434 admin/formulas.php:448
+#: admin/formulas.php:462 admin/formulas.php:547 admin/formulas.php:561
+#: admin/formulas.php:575 admin/formulas.php:589
+msgid "salto de los valores"
+msgstr "salto em valores"
+
+#: admin/formulas_lentes_contacto.php:138
+#: admin/formulas_lentes_contacto.php:194 admin/formulas.php:177
+#: admin/formulas.php:280 admin/formulas.php:407 admin/formulas.php:534
+#, fuzzy
+msgid "Salto del rango"
+msgstr "Pule do alcance"
+
+#: tecno-opticas.php:1042
+#, fuzzy
+msgid "Se ha producido un error, vuelva a intentarlo"
+msgstr "Um erro ocorreu, por favor tente novamente"
+
+#: tecno-opticas.php:1035
+#, fuzzy
+msgid ""
+"Se requiere un ID de dispositivo, esta clave de licencia fue activada con un "
+"ID de dispositivo, se requiere un ID de dispositivo para desactivarla"
+msgstr ""
+"Uma ID do dispositivo é necessária, esta chave de licença foi ativada com "
+"uma ID do dispositivo, um ID do dispositivo é necessário para desativá-lo"
+
+#: includes/lentes.php:74 includes/lentes.php:206
+#: includes/plantilla_formula.php:763
+#, fuzzy
+msgid "Seleccionar"
+msgstr "Selecionar"
+
+#: includes/lentes.php:145
+#, fuzzy
+msgid "Seleccione el tipo de lentes"
+msgstr "Selecione o tipo de lentes"
+
+#: includes/proceso_compra_lentes_contacto.php:187
+#: includes/proceso_compra_lentes_contacto.php:351
+#, fuzzy
+msgid ""
+"Seleccione la imagen de la fórmula preescrita por su oftalmólogo/optómetra "
+"para poder seguir con el proceso de compra."
+msgstr ""
+"Selecione a imagem da fórmula pré-prescrita pelo seu oftalmologista/"
+"optometrista para poder continuar com o processo de compra."
+
+#: tecno-opticas.php:462 tecno-opticas.php:499 includes/proceso_compra.php:1054
+#, fuzzy
+msgid ""
+"Seleccione la imagen de la fórmula preescrita por su oftalmólogo/optómetra, "
+"así nosotros verificaremos que los datos que hayas ingresado sean correctos, "
+"si decides no subir tu fórmula y te equivocas al configurar las "
+"especificaciones la fórmula el lente quedará exactamente como ingresaste la "
+"fórmula."
+msgstr ""
+"Selecione a imagem da fórmula prescrita pelo seu oftalmologista/"
+"optometrista, por isso vamos verificar se os dados inseridos estão corretos, "
+"se você decidir não carregar sua fórmula e cometer um erro ao configurar as "
+"especificações da fórmula a lente será exatamente como você entrou na "
+"fórmula."
+
+#: templates/proceso_compra/configurar_formula.php:57
+#: templates/proceso_compra/configurar_formula.php:110
+#: templates/proceso_compra/configurar_formula_opcion_2.php:57
+#: templates/proceso_compra/configurar_formula_opcion_2.php:110
+#, fuzzy
+msgid "Seleccione una fórmula"
+msgstr "Selecione uma fórmula"
+
+#: includes/proceso_compra.php:1336
+#, fuzzy
+msgid "Seleccione una opción"
+msgstr "Selecione uma opção"
+
+#: includes/proceso_compra.php:193
+msgid "Si"
+msgstr "Sim"
+
+#: tecno-opticas.php:567
+#, fuzzy
+msgid ""
+"Si haz guardado una plantilla de configuración de tus gafas previamente, por "
+"favor selecciónala, de lo contrario haz clic en Continuar:"
+msgstr ""
+"Se você já salvou anteriormente um modelo de configuração para seus óculos, "
+"selecione-o, caso contrário clique em Continuar:"
+
+#: tecno-opticas.php:394 tecno-opticas.php:429 includes/proceso_compra.php:978
+#: includes/proceso_compra.php:1018
+msgid ""
+"Si no sabes el valor de tu distancia pupilar (DP) haz click <a href="
+"\"https://vimeo.com/748855582/80119ffb41\" target=\"_blank\">aquí</a> para "
+"averiguarlo. O pídele ayuda a nuestro asesor.</span>"
+msgstr ""
+"Se você não sabe o valor da sua distância pupilar (DP) clique <a href="
+"\"https://vimeo.com/748855582/80119ffb41\" target=\"_blank\">aqui</a> para "
+"saber. Ou peça ajuda ao nosso conselheiro.</span>"
+
+#: tecno-opticas.php:448 tecno-opticas.php:485
+#, fuzzy
+msgid ""
+"Si tienes problemas para interpretar tu fórmula,\n"
+"                                escríbenos vía whatsapp, uno de nuestros "
+"asesores te ayudará lo más rápido posible."
+msgstr ""
+"Se você está tendo problemas para interpretar sua fórmula,\n"
+"                                Escreva-nos via WhatsApp, um de nossos "
+"assessores irá ajudá-lo o mais rápido possível."
+
+#: includes/proceso_compra.php:1041
+#: includes/proceso_compra_lentes_contacto.php:168
+#, fuzzy
+msgid ""
+"Si tienes problemas para interpretar tu fórmula, escríbenos vía whatsapp, "
+"uno de nuestros asesores te ayudará lo más rápido posible."
+msgstr ""
+"Se você tiver problemas para interpretar sua fórmula, escreva-nos via "
+"whatsapp, um de nossos conselheiros irá ajudá-lo o mais rápido possível."
+
+#: includes/proceso_compra_lentes_contacto.php:331
+#, fuzzy
+msgid ""
+"Si tienes problemas para interpretar tu fórmula,escríbenos vía whatsapp, uno "
+"de nuestros asesores te ayudará lo más rápido posible."
+msgstr ""
+"Se você tiver problemas para interpretar sua fórmula, escreva-nos via "
+"whatsapp, um de nossos conselheiros irá ajudá-lo o mais rápido possível."
+
+#: tecno-opticas.php:110
+#, fuzzy
+msgid ""
+"Si ya usted tiene su licencia por favor ingrese <a href=\"/wp-admin/admin."
+"php?page=tecno-opticas/admin/licencia.php\">aquí</a> para activar el plugin."
+msgstr ""
+"Se você já tem sua licença, clique <a href=\"/wp-admin/admin.php?page=tecno-"
+"opticas/admin/licencia.php\">aqui</a> para ativar o plugin."
+
+#: includes/monturas.php:162
+#, fuzzy
+msgid "Silueta"
+msgstr "Silhueta"
+
+#: includes/proceso_compra.php:313
+#, fuzzy
+msgid "Silueta:"
+msgstr "Silhueta:"
+
+#: includes/monturas.php:267 includes/monturas.php:268
+#: includes/monturas.php:269
+#, fuzzy
+msgid "Siluetas para las monturas"
+msgstr "Silhuetas para as molduras"
+
+#: includes/proceso_compra.php:136 includes/proceso_compra.php:568
+#, fuzzy
+msgid "SKU de la montura"
+msgstr "Monte SKU"
+
+#: tecno-opticas.php:1028
+#, fuzzy
+msgid "Su dominio no es válido"
+msgstr "Seu domínio é inválido"
+
+#: includes/proceso_compra.php:301
+#, fuzzy
+msgid "Tamaños"
+msgstr "Tamanhos"
+
+#. Name of the plugin
+#: admin/configuracion.php:13
+#, fuzzy
+msgid "Tecno Opticas"
+msgstr "Tecno Opticas"
+
+#: admin/documentacion.php:12 admin/ajustes_whatsapp.php:13
+#: admin/ajustes_modulo.php:12 admin/descripcion_tipos.php:13
+#: admin/ajustes.php:12
+#, fuzzy
+msgid "Tecno Ópticas"
+msgstr "Óptica Tecnológica"
+
+#. Description of the plugin
+#, fuzzy
+msgid ""
+"TecnoCommerce Ópticas es un Catálogo de Monturas Oftálmicas, Lentes de "
+"Contacto, Lentes para Monturas, Gafas y Accesorios."
+msgstr ""
+"TecnoCommerce Ópticas é um catálogo de quadros oftálmicos, lentes de "
+"contato, lentes de lente de quadro, óculos e acessórios."
+
+#. Author of the plugin
+#, fuzzy
+msgid "TecnoSoluciones de Colombia S.A.S"
+msgstr "TecnoSoluciones de Colombia S.A.S"
+
+#: includes/proceso_compra.php:124 includes/proceso_compra.php:547
+#, fuzzy
+msgid "Tintura del lente"
+msgstr "Tingimento de lentes"
+
+#: templates/proceso_compra/configurar_formula_opcion_2.php:196
+#, fuzzy
+msgid "TIPO DE LENTES"
+msgstr "TIPO DE LENTES"
+
+#: includes/proceso_compra.php:112 includes/proceso_compra.php:519
+#, fuzzy
+msgid "Tipo de Vision"
+msgstr "Tipo de Visão"
+
+#: includes/plantilla_formula.php:258 includes/plantilla_formula.php:305
+#: includes/plantilla_formula.php:812 includes/plantilla_formula.php:885
+#, fuzzy
+msgid "Tipo de Visión"
+msgstr "Tipo de Visão"
+
+#: includes/proceso_compra.php:120 includes/proceso_compra.php:533
+#, fuzzy
+msgid "Tonalidad del color"
+msgstr "Matiz de cor"
+
+#: includes/lentes.php:504
+#, fuzzy
+msgid "Tonalidad del filtro"
+msgstr "Matiz do filtro"
+
+#: admin/configuracion.php:16
+#, fuzzy
+msgid ""
+"Usted, haciendo uso del hook <strong>[two_factor_ts]</strong> podrá integrar "
+"en cualquier otra página el proceso de configuración y activación de la "
+"autenticación en dos factores."
+msgstr ""
+"Você, usando gancho <strong>[two_factor_ts]</strong> pode integrar o "
+"processo de configuração e ativação da autenticação de dois fatores em "
+"qualquer outra página."
+
+#: admin/formulas_lentes_contacto.php:145
+#: admin/formulas_lentes_contacto.php:201
+#: admin/formulas_lentes_contacto.php:215
+#: admin/formulas_lentes_contacto.php:229
+#, fuzzy
+msgid "Valor del rango más alto"
+msgstr "Valor da faixa mais alta"
+
+#: admin/formulas_lentes_contacto.php:148
+#: admin/formulas_lentes_contacto.php:204
+#: admin/formulas_lentes_contacto.php:218
+#: admin/formulas_lentes_contacto.php:232
+#, fuzzy
+msgid "Valor del rango más bajo"
+msgstr "Menor valor de faixa"
+
+#: admin/formulas.php:187 admin/formulas.php:201 admin/formulas.php:290
+#: admin/formulas.php:304 admin/formulas.php:318 admin/formulas.php:417
+#: admin/formulas.php:431 admin/formulas.php:445 admin/formulas.php:544
+#: admin/formulas.php:558 admin/formulas.php:572
+#, fuzzy
+msgid "Valor del rango negativo más bajo"
+msgstr "Valor da menor faixa negativa"
+
+#: admin/formulas.php:184 admin/formulas.php:198 admin/formulas.php:212
+#: admin/formulas.php:287 admin/formulas.php:301 admin/formulas.php:315
+#: admin/formulas.php:329 admin/formulas.php:414 admin/formulas.php:428
+#: admin/formulas.php:442 admin/formulas.php:456 admin/formulas.php:541
+#: admin/formulas.php:555 admin/formulas.php:569 admin/formulas.php:583
+#, fuzzy
+msgid "Valor del rango positivo más alto"
+msgstr "Valor da maior faixa positiva"
+
+#: admin/formulas.php:215 admin/formulas.php:332 admin/formulas.php:459
+#: admin/formulas.php:586
+#, fuzzy
+msgid "Valor del rango positivo más bajo"
+msgstr "Menor valor de faixa positiva"
+
+#: admin/ajustes_modulo.php:235
+#, fuzzy
+msgid "Visión"
+msgstr "Visão"
+
+#: admin/formulas.php:147 admin/descripcion_tipos.php:97 includes/lentes.php:76
+#: includes/plantilla_formula.php:199 includes/plantilla_formula.php:773
+#, fuzzy
+msgid "Visión Sencilla"
+msgstr "Visão Simples"
+
+#: admin/ajustes.php:99
+#, fuzzy
+msgid ""
+"Ya estás listo para realizar la compra de tus gafas formuladas. Ahora solo "
+"debes hacer clic en Comprar para agregarlas a tu carrito."
+msgstr ""
+"Você está pronto para fazer a compra de seus óculos formulados. Agora você "
+"só tem que clicar em Comprar para adicioná-los ao seu carrinho."
+
+#: includes/proceso_compra.php:68 includes/proceso_compra.php:191
+#: includes/proceso_compra.php:442
+#, fuzzy
+msgid "¿Deseas la montura con lentes formulados?"
+msgstr "Você quer o quadro com lentes formuladas?"

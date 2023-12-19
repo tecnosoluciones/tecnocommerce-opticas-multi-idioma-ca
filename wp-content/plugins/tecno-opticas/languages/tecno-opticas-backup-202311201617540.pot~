@@ -1,0 +1,1856 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Tecno Opticas\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-17 13:54+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.0.3\n"
+"X-Domain: tecno-opticas"
+
+#: admin/ajustes_modulo.php:300
+msgid " Por favor seleccione el tipo de proceso de compra:"
+msgstr ""
+
+#: tecno-opticas.php:524 tecno-opticas.php:537 tecno-opticas.php:574
+#: tecno-opticas.php:587 includes/proceso_compra.php:1111
+#: includes/proceso_compra.php:1124
+#: includes/proceso_compra_lentes_contacto.php:191
+#: includes/proceso_compra_lentes_contacto.php:355
+#, php-format
+msgid "(tamaño máx. de archivo %s)"
+msgstr ""
+
+#: admin/ajustes.php:93
+msgid ""
+"1. Ahora debes seleccionar uno de nuestros tipos de lentes para pasar al "
+"siguiente paso."
+msgstr ""
+
+#: admin/ajustes.php:94
+msgid ""
+"2. Gracias por tu elección. Para avanzar al siguiente paso haz clic en el "
+"botón Continuar."
+msgstr ""
+
+#: admin/ajustes.php:95
+msgid ""
+"3. Bien, ahora debes llenar TODOS los campos de tu fórmula para poder seguir "
+"adelante. Por favor nota que también debes cargar la imagen de la "
+"prescripción de la fórmula. Una vez que hayas llenado todo, haz clic en el "
+"botón continuar."
+msgstr ""
+
+#: admin/ajustes.php:96
+msgid "4. Bien avancemos al siguiente paso, haz clic en el botón Continuar."
+msgstr ""
+
+#: admin/ajustes.php:97
+msgid ""
+"5. Selecciona las características de lentes que prefieras para seguir "
+"avanzando."
+msgstr ""
+
+#: admin/ajustes.php:98
+msgid ""
+"6. Bien ya tienes la característica de los lentes que quieres, haz clic en "
+"el botón Continuar."
+msgstr ""
+
+#: includes/proceso_compra.php:254
+#, php-format
+msgid ""
+"<strong>%s</strong> ofrece 3 tamaños de montura diferentes (S, M, L). Por lo "
+"tanto, elegir la correcta es la clave para asegurarse de que sus nuevas "
+"gafas se ajustan correctamente a su cara."
+msgstr ""
+
+#: tecno-opticas.php:723
+msgid ""
+"A continuación te mostramos todas las opciones escogidas. Por favor revisa "
+"todo y si estás conforme haz clic en el botón Agregar al Carrito"
+msgstr ""
+
+#: includes/plantilla_formula.php:126
+msgid "Acciones"
+msgstr ""
+
+#: admin/licencia.php:36
+msgid "Activación del módulo"
+msgstr ""
+
+#: admin/licencia.php:55
+msgid "Activar"
+msgstr ""
+
+#: tecno-opticas.php:374 tecno-opticas.php:380 tecno-opticas.php:386
+#: admin/formulas.php:312 admin/formulas.php:374 admin/formulas.php:439
+#: admin/formulas.php:501 admin/formulas.php:566 admin/formulas.php:628
+#: includes/functions.php:181 includes/functions.php:191
+#: includes/functions.php:201 includes/functions.php:209
+#: includes/functions.php:1013 includes/functions.php:1214
+#: includes/functions.php:1322 includes/functions.php:1430
+#: includes/proceso_compra.php:950 includes/proceso_compra.php:957
+#: includes/proceso_compra.php:963
+msgid "ADD"
+msgstr ""
+
+#: includes/proceso_compra.php:92
+msgid "ADD ojo Der"
+msgstr ""
+
+#: includes/proceso_compra.php:510
+msgid "ADD ojo Der:"
+msgstr ""
+
+#: includes/plantilla_formula.php:241 includes/plantilla_formula.php:391
+msgid "ADD Ojo Derecho"
+msgstr ""
+
+#: includes/proceso_compra.php:108
+msgid "ADD ojo Izq"
+msgstr ""
+
+#: includes/proceso_compra.php:538
+msgid "ADD ojo Izq:"
+msgstr ""
+
+#: includes/plantilla_formula.php:247 includes/plantilla_formula.php:397
+msgid "ADD Ojo Izquierdo"
+msgstr ""
+
+#: admin/documentacion.php:16
+msgid ""
+"Adicional a eso le permite establecer rangos de fórmulas para definir "
+"precios en los productos tipo lentes. Usted podrá configurar las "
+"características de los lentes y agregar tinturas o\n"
+"            colores para los cristales."
+msgstr ""
+
+#: admin/licencia.php:101
+msgid "Agrega algo en el campo licencia"
+msgstr ""
+
+#: admin/ajustes_modulo.php:108
+msgid "Ajuste"
+msgstr ""
+
+#: includes/opciones.php:23
+msgid "Ajustes"
+msgstr ""
+
+#: admin/ajustes.php:141 admin/ajustes_modulo.php:194
+#: admin/ajustes_whatsapp.php:67 admin/descripcion_tipos.php:61
+msgid "Ajustes Generales"
+msgstr ""
+
+#: includes/lentes.php:207
+msgid "Alta"
+msgstr ""
+
+#: includes/proceso_compra.php:289
+msgid "Alto de la Lente"
+msgstr ""
+
+#: includes/monturas.php:209 includes/monturas.php:211
+msgid "Alto Lente (mm)"
+msgstr ""
+
+#: tecno-opticas.php:394 tecno-opticas.php:401 includes/proceso_compra.php:116
+msgid "Altura"
+msgstr ""
+
+#: includes/proceso_compra.php:545
+msgid "Altura:"
+msgstr ""
+
+#: includes/proceso_compra.php:282
+msgid "Ancho de la Lente"
+msgstr ""
+
+#: includes/proceso_compra.php:259
+msgid "Ancho de la Montura"
+msgstr ""
+
+#: includes/monturas.php:178
+msgid "Ancho de la montura en mm"
+msgstr ""
+
+#: includes/monturas.php:200
+msgid "Ancho del lente en mm"
+msgstr ""
+
+#: includes/monturas.php:189
+msgid "Ancho del puente en mm"
+msgstr ""
+
+#: includes/monturas.php:198
+msgid "Ancho Lente (mm)"
+msgstr ""
+
+#: includes/monturas.php:176
+msgid "Ancho Montura (mm)"
+msgstr ""
+
+#: admin/ajustes_whatsapp.php:78
+msgid ""
+"Aquí usted debe configurar el número de whatsapp y el mensaje que se va a "
+"mostrar."
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:129
+msgid ""
+"Aquí usted debe configurar el rango correspondiente al campo Esfera para los "
+"lentes de contacto con visión Miopía o Hipermetropía."
+msgstr ""
+
+#: admin/descripcion_tipos.php:71
+msgid "Aquí usted debe configurar la descripción para los tipos de visión."
+msgstr ""
+
+#: admin/ajustes_modulo.php:209
+msgid "Aquí usted debe configurar los ajustes del módulo."
+msgstr ""
+
+#: admin/ajustes.php:156
+msgid ""
+"Aquí usted debe configurar los mensajes que guiarán a los clientes a través "
+"del proceso de compra de las gafas con lentes formulados."
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:185
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro y Eje para los lentes de contacto con visión Astigmatismo."
+msgstr ""
+
+#: admin/formulas.php:168
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro y Eje para los lentes de Visión Sencilla."
+msgstr ""
+
+#: admin/formulas.php:271
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro, ADD y Eje para los lentes Bifocales."
+msgstr ""
+
+#: admin/formulas.php:525
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro, ADD y Eje para los lentes Ocupacionales."
+msgstr ""
+
+#: admin/formulas.php:398
+msgid ""
+"Aquí usted debe configurar los rangos correspondientes a los campos Esfera, "
+"Cilindro, ADD y Eje para los lentes Progresivos."
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:119 includes/lentes_contacto.php:78
+msgid "Astigmatismo"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:165
+msgid ""
+"Así se verá el campo de la fórmula para lentes de contacto de visión Miopía "
+"o Hipermetropía con el rango que usted ha configurado:"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:249
+msgid ""
+"Así se verán los campos de la fórmula para lentes de contacto de visión "
+"Astigmatismo con los rangos que usted ha configurado:"
+msgstr ""
+
+#: tecno-opticas.php:512 tecno-opticas.php:562 includes/proceso_compra.php:1099
+msgid "Atención personalizada"
+msgstr ""
+
+#: includes/monturas.php:42
+msgid "Atributos de la Montura"
+msgstr ""
+
+#: includes/lentes.php:46
+msgid "Atributos de Lentes"
+msgstr ""
+
+#: templates/proceso_compra/configurar_formula.php:145
+msgid "Añadir al carrito"
+msgstr ""
+
+#: includes/opciones.php:21
+msgid "Añadir Filtros"
+msgstr ""
+
+#: includes/plantilla_formula.php:118
+msgid "Añadir fórmula"
+msgstr ""
+
+#: includes/lentes.php:209
+msgid "Baja"
+msgstr ""
+
+#: admin/ajustes.php:165
+msgid "BIENVENIDA"
+msgstr ""
+
+#: admin/configuracion.php:14
+msgid "Bienvenido a la Documentación de Tecno-Seguridad"
+msgstr ""
+
+#: admin/documentacion.php:13
+msgid "Bienvenido a la Documentación del Módulo de Tecno Ópticas"
+msgstr ""
+
+#: admin/ajustes_modulo.php:262 admin/formulas.php:150
+#: includes/proceso_compra.php:699
+msgid "Bifocal"
+msgstr ""
+
+#: admin/descripcion_tipos.php:124 includes/lentes.php:77
+#: includes/plantilla_formula.php:205 includes/plantilla_formula.php:792
+msgid "Bifocales"
+msgstr ""
+
+#: includes/proceso_compra.php:273
+msgid "Brazo"
+msgstr ""
+
+#: includes/monturas.php:220
+msgid "Brazo (mm)"
+msgstr ""
+
+#: includes/proceso_compra_lentes_contacto.php:45
+#: includes/proceso_compra_lentes_contacto.php:129
+#: includes/proceso_compra_lentes_contacto.php:306
+#: includes/proceso_compra_lentes_contacto.php:469
+msgid "Cajas Ojo Derecho"
+msgstr ""
+
+#: includes/proceso_compra_lentes_contacto.php:49
+#: includes/proceso_compra_lentes_contacto.php:130
+#: includes/proceso_compra_lentes_contacto.php:307
+#: includes/proceso_compra_lentes_contacto.php:476
+msgid "Cajas Ojo Izquierdo"
+msgstr ""
+
+#: includes/proceso_compra.php:209
+msgid "Campo obligatorio"
+msgstr ""
+
+#: includes/plantilla_formula.php:296 includes/plantilla_formula.php:353
+#: includes/plantilla_formula.php:861 includes/plantilla_formula.php:923
+#: templates/proceso_compra/configurar_formula.php:200
+#: templates/proceso_compra/configurar_formula.php:245
+#: templates/proceso_compra/configurar_formula.php:278
+#: templates/proceso_compra/configurar_formula.php:328
+#: templates/proceso_compra/configurar_formula.php:354
+#: templates/proceso_compra/configurar_formula.php:381
+#: templates/proceso_compra/configurar_formula_opcion_2.php:258
+msgid "Cancelar"
+msgstr ""
+
+#: includes/lentes_contacto.php:66
+#: templates/proceso_compra/configurar_formula_opcion_2.php:229
+msgid "CARACTERÍSTICAS DE LENTES"
+msgstr ""
+
+#: includes/proceso_compra.php:144
+msgid "Característica de lentes"
+msgstr ""
+
+#: includes/proceso_compra.php:608
+msgid "Características de lentes:"
+msgstr ""
+
+#: tecno-opticas.php:421 tecno-opticas.php:439 tecno-opticas.php:463
+#: admin/formulas.php:195 admin/formulas.php:247 admin/formulas.php:298
+#: admin/formulas.php:364 admin/formulas.php:425 admin/formulas.php:491
+#: admin/formulas.php:552 admin/formulas.php:618
+#: admin/formulas_lentes_contacto.php:212
+#: admin/formulas_lentes_contacto.php:264 includes/functions.php:177
+#: includes/functions.php:187 includes/functions.php:197
+#: includes/functions.php:207 includes/functions.php:1028
+#: includes/functions.php:1108 includes/functions.php:1212
+#: includes/functions.php:1320 includes/functions.php:1428
+#: includes/plantilla_formula.php:321 includes/plantilla_formula.php:440
+#: includes/plantilla_formula.php:872 includes/proceso_compra.php:1019
+#: includes/proceso_compra.php:1047
+msgid "Cilindro"
+msgstr ""
+
+#: includes/proceso_compra.php:84
+msgid "Cilindro ojo Der"
+msgstr ""
+
+#: includes/proceso_compra.php:496
+msgid "Cilindro ojo Der:"
+msgstr ""
+
+#: includes/plantilla_formula.php:410 includes/plantilla_formula.php:838
+#: includes/proceso_compra_lentes_contacto.php:29
+#: includes/proceso_compra_lentes_contacto.php:272
+#: includes/proceso_compra_lentes_contacto.php:441
+msgid "Cilindro Ojo Derecho"
+msgstr ""
+
+#: includes/proceso_compra.php:100 includes/proceso_compra.php:524
+msgid "Cilindro ojo Izq"
+msgstr ""
+
+#: includes/plantilla_formula.php:423 includes/plantilla_formula.php:850
+#: includes/proceso_compra_lentes_contacto.php:33
+#: includes/proceso_compra_lentes_contacto.php:273
+#: includes/proceso_compra_lentes_contacto.php:448
+msgid "Cilindro Ojo Izquierdo"
+msgstr ""
+
+#: includes/lentes.php:605 includes/proceso_compra.php:1432
+#: includes/proceso_compra.php:1432
+msgid "Claro Degradado"
+msgstr ""
+
+#: includes/lentes.php:602 includes/proceso_compra.php:1429
+#: includes/proceso_compra.php:1429
+msgid "Claro Sólido"
+msgstr ""
+
+#: tecno-opticas.php:1097
+msgid "Clave API no válida"
+msgstr ""
+
+#: tecno-opticas.php:1104
+msgid "Clave de licencia activada"
+msgstr ""
+
+#: tecno-opticas.php:1132
+msgid "Clave de licencia caducada"
+msgstr ""
+
+#: tecno-opticas.php:1111
+msgid "Clave de licencia desactivada"
+msgstr ""
+
+#: tecno-opticas.php:1090
+msgid "Clave de licencia inválida"
+msgstr ""
+
+#: tecno-opticas.php:1125
+msgid "Clave de licencia válida"
+msgstr ""
+
+#: tecno-opticas.php:1118
+msgid "Clave de licencia ya inactiva"
+msgstr ""
+
+#: includes/lentes.php:416 includes/lentes.php:429
+msgid "Color"
+msgstr ""
+
+#: includes/proceso_compra.php:152
+msgid "Comentario"
+msgstr ""
+
+#: includes/proceso_compra.php:580
+msgid "Comentario:"
+msgstr ""
+
+#: templates/proceso_compra/configurar_formula.php:150
+msgid "CONFIGURACIÓN DE GAFAS CON LENTES FORMULADOS"
+msgstr ""
+
+#: templates/proceso_compra/configurar_formula_opcion_2.php:157
+msgid "CONFIGURACIÓN DE GAFAS CON LENTES PRESCRISTOS"
+msgstr ""
+
+#: admin/ajustes.php:153
+msgid "Configuración de mensajes para el proceso de compra"
+msgstr ""
+
+#: includes/functions.php:1113 includes/functions.php:1218
+#: includes/functions.php:1326 includes/functions.php:1434
+msgid "Configuración de Rangos y Precios para Fórmulas"
+msgstr ""
+
+#: admin/ajustes.php:144 admin/ajustes_modulo.php:197
+#: admin/ajustes_whatsapp.php:70 admin/descripcion_tipos.php:64
+#: includes/opciones.php:26 includes/opciones.php:26
+msgid "Configuración de WhatsApp"
+msgstr ""
+
+#: admin/ajustes_whatsapp.php:75
+msgid "Configuración de Whatsapp"
+msgstr ""
+
+#: admin/ajustes_whatsapp.php:52
+msgid "Configuración de Whatsapp guardados exitosamente"
+msgstr ""
+
+#: admin/ajustes_modulo.php:206
+msgid "Configuración del módulo"
+msgstr ""
+
+#: includes/lentes.php:36
+msgid "Configurar Fórmulas"
+msgstr ""
+
+#: includes/lentes_contacto.php:18
+msgid "Configurar lente de contacto"
+msgstr ""
+
+#: includes/proceso_compra_lentes_contacto.php:176
+msgid "CONTACTO WHATSAPP <i class=\"fa fa fa-whatsapp\"></i>"
+msgstr ""
+
+#: includes/proceso_compra_lentes_contacto.php:339
+msgid "CONTACTO WHATSAPP <i class=\"fab fa-whatsapp\"></i>"
+msgstr ""
+
+#: templates/proceso_compra/configurar_formula.php:197
+#: templates/proceso_compra/configurar_formula.php:242
+#: templates/proceso_compra/configurar_formula.php:275
+#: templates/proceso_compra/configurar_formula.php:299
+#: templates/proceso_compra/configurar_formula.php:325
+#: templates/proceso_compra/configurar_formula.php:351
+#: templates/proceso_compra/configurar_formula.php:378
+#: templates/proceso_compra/configurar_formula_opcion_2.php:252
+#: templates/proceso_compra/configurar_formula_opcion_2.php:253
+#: templates/proceso_compra/configurar_formula_opcion_2.php:254
+#: templates/proceso_compra/configurar_formula_opcion_2.php:255
+msgid "Continuar"
+msgstr ""
+
+#: includes/functions.php:1231 includes/functions.php:1339
+#: includes/functions.php:1447
+msgid "Cuarto Rango"
+msgstr ""
+
+#: includes/proceso_compra.php:347
+msgid "Debe indicar si desea comprar la montura formulada o no."
+msgstr ""
+
+#: tecno-opticas.php:211
+msgid "Debe seleccionar algun lente para continuar en el proceso de compra."
+msgstr ""
+
+#: admin/ajustes_modulo.php:240 admin/descripcion_tipos.php:83
+#: includes/lentes.php:75 includes/plantilla_formula.php:193
+#: includes/plantilla_formula.php:780 includes/proceso_compra.php:681
+msgid "Descanso"
+msgstr ""
+
+#: admin/descripcion_tipos.php:46
+msgid "Descripciones guardadas exitosamente"
+msgstr ""
+
+#: admin/ajustes.php:183
+msgid "Descripción para el PASO 1"
+msgstr ""
+
+#: admin/ajustes.php:199
+msgid "Descripción para el PASO 2"
+msgstr ""
+
+#: admin/ajustes.php:215
+msgid "Descripción para el PASO 3"
+msgstr ""
+
+#: admin/ajustes.php:231
+msgid "Descripción para el PASO 4"
+msgstr ""
+
+#: admin/ajustes.php:247
+msgid "Descripción para el PASO 5"
+msgstr ""
+
+#: admin/ajustes.php:263
+msgid "Descripción para el PASO 6"
+msgstr ""
+
+#: admin/ajustes.php:279
+msgid "Descripción para el PASO 7"
+msgstr ""
+
+#: admin/ajustes.php:142 admin/ajustes_modulo.php:195
+#: admin/ajustes_whatsapp.php:68 admin/descripcion_tipos.php:62
+#: includes/opciones.php:24 includes/opciones.php:24
+msgid "Descripción Tipos de Visión"
+msgstr ""
+
+#: includes/monturas.php:169
+msgid "Dimensiones de la montura"
+msgstr ""
+
+#: includes/proceso_compra.php:112
+msgid "Distancia pupilar"
+msgstr ""
+
+#: includes/proceso_compra.php:552
+msgid "Distancia pupilar:"
+msgstr ""
+
+#: includes/opciones.php:17
+msgid "Documentación"
+msgstr ""
+
+#: tecno-opticas.php:484
+msgid "DP"
+msgstr ""
+
+#: includes/lentes.php:336
+msgid "Editar Filtro"
+msgstr ""
+
+#: includes/plantilla_formula.php:53 includes/plantilla_formula.php:66
+#: includes/plantilla_formula.php:79 includes/plantilla_formula.php:92
+#: includes/plantilla_formula.php:105
+msgid "Editar plantilla"
+msgstr ""
+
+#: tecno-opticas.php:425 tecno-opticas.php:443 tecno-opticas.php:464
+#: admin/formulas.php:209 admin/formulas.php:257 admin/formulas.php:326
+#: admin/formulas.php:384 admin/formulas.php:453 admin/formulas.php:511
+#: admin/formulas.php:580 admin/formulas.php:638
+#: admin/formulas_lentes_contacto.php:226
+#: admin/formulas_lentes_contacto.php:274 includes/functions.php:178
+#: includes/functions.php:188 includes/functions.php:198
+#: includes/functions.php:208 includes/functions.php:1029
+#: includes/functions.php:1109 includes/functions.php:1213
+#: includes/functions.php:1321 includes/functions.php:1429
+#: includes/plantilla_formula.php:322 includes/plantilla_formula.php:441
+#: includes/plantilla_formula.php:873 includes/proceso_compra.php:1023
+#: includes/proceso_compra.php:1048
+msgid "Eje"
+msgstr ""
+
+#: includes/proceso_compra.php:88
+msgid "Eje ojo Der"
+msgstr ""
+
+#: includes/proceso_compra.php:503
+msgid "Eje ojo Der:"
+msgstr ""
+
+#: includes/plantilla_formula.php:414 includes/plantilla_formula.php:842
+#: includes/proceso_compra_lentes_contacto.php:37
+#: includes/proceso_compra_lentes_contacto.php:289
+#: includes/proceso_compra_lentes_contacto.php:455
+msgid "Eje Ojo Derecho"
+msgstr ""
+
+#: includes/proceso_compra.php:104
+msgid "Eje ojo Izq"
+msgstr ""
+
+#: includes/proceso_compra.php:531
+msgid "Eje ojo Izq:"
+msgstr ""
+
+#: includes/plantilla_formula.php:427 includes/plantilla_formula.php:854
+#: includes/proceso_compra_lentes_contacto.php:41
+#: includes/proceso_compra_lentes_contacto.php:290
+#: includes/proceso_compra_lentes_contacto.php:462
+msgid "Eje Ojo Izquierdo"
+msgstr ""
+
+#: tecno-opticas.php:148
+#, php-format
+msgid "El estado de su licencia es <strong>%s</strong>"
+msgstr ""
+
+#: admin/configuracion.php:15
+msgid ""
+"El plugin de forma automatica integra en la <strong>Página de mi "
+"cuenta</strong> de Woocommerce un tab llamado <strong>Autenticación en dos "
+"factores</strong>"
+msgstr ""
+
+#: tecno-opticas.php:212
+msgid ""
+"El valor del campo ADD esta en 0, debe agregar su ADD para poder avanzar."
+msgstr ""
+
+#: tecno-opticas.php:201
+msgid ""
+"El valor del campo ADD para el ojo Derecho esta en %variable_cambio%, esta "
+"seguro de que es correcto?"
+msgstr ""
+
+#: tecno-opticas.php:200
+msgid ""
+"El valor del campo ADD para el ojo Izquierdo esta en %variable_cambio%, esta "
+"seguro de que es correcto?"
+msgstr ""
+
+#: tecno-opticas.php:208
+msgid ""
+"El valor del campo Altura esta vacio o es igual a 0 (cero), este campo es "
+"obligatorio."
+msgstr ""
+
+#: tecno-opticas.php:205
+msgid ""
+"El valor del campo CILINDRO para el ojo Derecho esta en %variable_cambio%, "
+"esta seguro de que es correcto?"
+msgstr ""
+
+#: tecno-opticas.php:204
+msgid ""
+"El valor del campo CILINDRO para el ojo Izquierdo esta en %variable_cambio%, "
+"esta seguro de que es correcto?"
+msgstr ""
+
+#: tecno-opticas.php:209
+msgid ""
+"El valor del campo DP esta vacio o es igual a 0 (cero), este campo es "
+"obligatorio."
+msgstr ""
+
+#: tecno-opticas.php:203
+msgid ""
+"El valor del campo EJE para el ojo Derecho esta en %variable_cambio%, esta "
+"seguro de que es correcto?"
+msgstr ""
+
+#: tecno-opticas.php:202
+msgid ""
+"El valor del campo EJE para el ojo Izquierdo esta en %variable_cambio%, esta "
+"seguro de que es correcto?"
+msgstr ""
+
+#: tecno-opticas.php:207
+msgid ""
+"El valor del campo ESFERA para el ojo Derecho esta en %variable_cambio%, "
+"esta seguro de que es correcto?"
+msgstr ""
+
+#: tecno-opticas.php:206
+msgid ""
+"El valor del campo ESFERA para el ojo Izquierdo esta en %variable_cambio%, "
+"esta seguro de que es correcto?"
+msgstr ""
+
+#: includes/plantilla_formula.php:54 includes/plantilla_formula.php:67
+#: includes/plantilla_formula.php:80 includes/plantilla_formula.php:93
+#: includes/plantilla_formula.php:106
+msgid "Eliminar plantilla"
+msgstr ""
+
+#: includes/proceso_compra.php:1568
+msgid "En este momento no hay productos"
+msgstr ""
+
+#: tecno-opticas.php:417 tecno-opticas.php:435 tecno-opticas.php:462
+#: admin/formulas.php:181 admin/formulas.php:237 admin/formulas.php:284
+#: admin/formulas.php:354 admin/formulas.php:411 admin/formulas.php:481
+#: admin/formulas.php:538 admin/formulas.php:608
+#: admin/formulas_lentes_contacto.php:142
+#: admin/formulas_lentes_contacto.php:170
+#: admin/formulas_lentes_contacto.php:198
+#: admin/formulas_lentes_contacto.php:254 includes/functions.php:176
+#: includes/functions.php:186 includes/functions.php:196
+#: includes/functions.php:206 includes/functions.php:1027
+#: includes/functions.php:1107 includes/functions.php:1211
+#: includes/functions.php:1319 includes/functions.php:1427
+#: includes/plantilla_formula.php:320 includes/plantilla_formula.php:439
+#: includes/plantilla_formula.php:871 includes/proceso_compra.php:1015
+#: includes/proceso_compra.php:1046
+msgid "Esfera"
+msgstr ""
+
+#: includes/proceso_compra.php:80
+msgid "Esfera ojo Der"
+msgstr ""
+
+#: includes/proceso_compra.php:489
+msgid "Esfera ojo Der:"
+msgstr ""
+
+#: includes/plantilla_formula.php:406 includes/plantilla_formula.php:834
+#: includes/proceso_compra_lentes_contacto.php:21
+#: includes/proceso_compra_lentes_contacto.php:112
+#: includes/proceso_compra_lentes_contacto.php:255
+#: includes/proceso_compra_lentes_contacto.php:427
+msgid "Esfera Ojo Derecho"
+msgstr ""
+
+#: includes/proceso_compra.php:96
+msgid "Esfera ojo Izq"
+msgstr ""
+
+#: includes/proceso_compra.php:517
+msgid "Esfera ojo Izq:"
+msgstr ""
+
+#: includes/plantilla_formula.php:419 includes/plantilla_formula.php:846
+#: includes/proceso_compra_lentes_contacto.php:25
+#: includes/proceso_compra_lentes_contacto.php:113
+#: includes/proceso_compra_lentes_contacto.php:256
+#: includes/proceso_compra_lentes_contacto.php:434
+msgid "Esfera Ojo Izquierdo"
+msgstr ""
+
+#: tecno-opticas.php:497 tecno-opticas.php:547 includes/proceso_compra.php:1082
+msgid "ESPECIFICACIONES DE FÓRMULA"
+msgstr ""
+
+#: admin/documentacion.php:15
+msgid ""
+"Este módulo permite configurar dentro de su comercio electrónico productos "
+"tipo monturas formuladas, lentes y lentes de contacto cada uno con su rango "
+"de fórmula."
+msgstr ""
+
+#: includes/monturas.php:423
+msgid ""
+"Estimado cliente esa imagen no puede ser usada para las siluetas por favor "
+"sube la imagen nuevamente."
+msgstr ""
+
+#: includes/monturas.php:533
+msgid ""
+"Estimado cliente esa imagen no puede ser usada para las siluetas por favor "
+"sube la imagen nuevamente. "
+msgstr ""
+
+#: tecno-opticas.php:199
+msgid ""
+"Estimado cliente no ha agregado un nombre a su plantilla, si no agrega un "
+"nombre no podra guardarse para futuras compras. ¿Seguro que desea continuar "
+"sin nombrar la plantilla?"
+msgstr ""
+
+#: admin/ajustes_modulo.php:218
+msgid "Excluir los productos que estén fuera de rango por la fórmula"
+msgstr ""
+
+#: includes/lentes.php:334
+msgid "Filtro"
+msgstr ""
+
+#: includes/lentes.php:335 includes/opciones.php:20 includes/opciones.php:20
+msgid "Filtros"
+msgstr ""
+
+#: includes/lentes.php:56
+msgid "Filtros para Lentes"
+msgstr ""
+
+#: includes/proceso_compra.php:622
+msgid "Filtros para Lentes:"
+msgstr ""
+
+#: includes/proceso_compra.php:140
+msgid "Foto del Rostro"
+msgstr ""
+
+#: includes/proceso_compra.php:601
+msgid "Foto del Rostro:"
+msgstr ""
+
+#: includes/plantilla_formula.php:313 includes/plantilla_formula.php:907
+#: includes/proceso_compra.php:136
+msgid "Fórmula"
+msgstr ""
+
+#: includes/proceso_compra.php:594
+msgid "Fórmula:"
+msgstr ""
+
+#: includes/opciones.php:18
+msgid "Fórmulas"
+msgstr ""
+
+#: includes/opciones.php:19
+msgid "Fórmulas para lentes de contacto"
+msgstr ""
+
+#: includes/proceso_compra.php:1502
+msgid "Gama Alta:"
+msgstr ""
+
+#: includes/proceso_compra.php:1460
+msgid "Gama Baja:"
+msgstr ""
+
+#: includes/lentes.php:216
+msgid "Gama del Lente"
+msgstr ""
+
+#: includes/proceso_compra.php:1481
+msgid "Gama Media:"
+msgstr ""
+
+#: includes/proceso_compra.php:335
+msgid "Genero:"
+msgstr ""
+
+#: includes/plantilla_formula.php:295 includes/plantilla_formula.php:352
+#: includes/plantilla_formula.php:860 includes/plantilla_formula.php:922
+msgid "Guardar"
+msgstr ""
+
+#: admin/ajustes.php:387 admin/ajustes_modulo.php:349
+#: admin/ajustes_whatsapp.php:108 admin/descripcion_tipos.php:152
+#: admin/formulas.php:224 admin/formulas.php:341 admin/formulas.php:468
+#: admin/formulas.php:595 admin/formulas_lentes_contacto.php:157
+#: admin/formulas_lentes_contacto.php:241
+msgid "Guardar los cambios"
+msgstr ""
+
+#: includes/proceso_compra.php:319
+msgid "Guía de tamaños:"
+msgstr ""
+
+#: includes/monturas.php:153
+msgid "Género"
+msgstr ""
+
+#: includes/monturas.php:289 includes/monturas.php:290
+#: includes/monturas.php:291
+msgid "Géneros para las monturas"
+msgstr ""
+
+#: admin/ajustes_modulo.php:333
+msgid "Habilitar Campo de porcentaje para la tonalidad en el proceso de compra"
+msgstr ""
+
+#: admin/ajustes_modulo.php:321
+msgid "Habilitar Campo del altura en el proceso de compra"
+msgstr ""
+
+#: includes/lentes.php:542
+msgid "Habilitar tonalidad"
+msgstr ""
+
+#: includes/lentes.php:210
+msgid "HD"
+msgstr ""
+
+#: includes/proceso_compra.php:1523
+msgid "HD:"
+msgstr ""
+
+#: includes/lentes.php:211
+msgid "HQ"
+msgstr ""
+
+#: includes/proceso_compra.php:1544
+msgid "HQ:"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://tecnosoluciones.com"
+msgstr ""
+
+#: admin/licencia.php:39
+msgid "Ingrese el código de su licencia"
+msgstr ""
+
+#: includes/monturas.php:380 includes/monturas.php:490
+msgid ""
+"La imagen de la silueta debe tener un tamaño de 60 de ancho por 25 de alto."
+msgstr ""
+
+#: includes/monturas.php:222
+msgid "Largo del brazo en mm"
+msgstr ""
+
+#: includes/proceso_compra.php:295
+msgid ""
+"Le sugerimos que mida las dimensiones de su montura para asegurarse de que "
+"tiene el mejor ajuste para su cara."
+msgstr ""
+
+#: includes/functions.php:42
+msgid "Lentes"
+msgstr ""
+
+#: includes/functions.php:43
+msgid "Lentes de Contacto"
+msgstr ""
+
+#: includes/opciones.php:19
+msgid "Lentes de contacto"
+msgstr ""
+
+#: includes/lentes_contacto.php:79
+msgid "Lentes tintados"
+msgstr ""
+
+#: tecno-opticas.php:88
+msgid "Licencia no Activa"
+msgstr ""
+
+#: admin/licencia.php:46
+msgid "License Key"
+msgstr ""
+
+#: includes/proceso_compra.php:1572
+msgid "LISTADO DE LENTES"
+msgstr ""
+
+#: includes/lentes.php:228
+msgid "Marca"
+msgstr ""
+
+#: includes/lentes.php:645 includes/lentes.php:646
+msgid "Marcas de lentes"
+msgstr ""
+
+#: includes/lentes.php:644
+msgid "Marcas del lente"
+msgstr ""
+
+#: includes/lentes.php:547
+msgid ""
+"Marque esta opción si desea habilitar la opción de tonalidad en el proceso "
+"de compra"
+msgstr ""
+
+#: includes/lentes.php:283
+#, php-format
+msgid "Marque esta opción si sus lentes poseen el filtro %s"
+msgstr ""
+
+#: includes/lentes_contacto.php:81
+msgid "Marque la opción correspondiente al tipo de lente de contacto"
+msgstr ""
+
+#: includes/monturas.php:144
+msgid "Material"
+msgstr ""
+
+#: includes/monturas.php:245 includes/monturas.php:246
+#: includes/monturas.php:247
+msgid "Materiales para las monturas"
+msgstr ""
+
+#: includes/functions.php:614 includes/functions.php:653
+#: includes/functions.php:686 includes/functions.php:725
+msgid "Mayor"
+msgstr ""
+
+#: includes/lentes.php:208
+msgid "Media"
+msgstr ""
+
+#: includes/proceso_compra.php:279
+msgid "Medidas de la Lente"
+msgstr ""
+
+#: includes/proceso_compra.php:256
+msgid "Medidas del marco"
+msgstr ""
+
+#: includes/proceso_compra.php:248
+msgid "Medidas para la montura: "
+msgstr ""
+
+#: includes/lentes.php:606 includes/proceso_compra.php:1433
+#: includes/proceso_compra.php:1433
+msgid "Medio Degradado"
+msgstr ""
+
+#: includes/lentes.php:603 includes/proceso_compra.php:1430
+#: includes/proceso_compra.php:1430
+msgid "Medio Sólido"
+msgstr ""
+
+#: includes/functions.php:624 includes/functions.php:663
+#: includes/functions.php:696 includes/functions.php:735
+msgid "Menor"
+msgstr ""
+
+#: admin/ajustes.php:305
+msgid "Mensaje 1"
+msgstr ""
+
+#: admin/ajustes.php:313
+msgid "Mensaje 2"
+msgstr ""
+
+#: admin/ajustes.php:321
+msgid "Mensaje 3"
+msgstr ""
+
+#: admin/ajustes.php:329
+msgid "Mensaje 4"
+msgstr ""
+
+#: admin/ajustes.php:337
+msgid "Mensaje 5"
+msgstr ""
+
+#: admin/ajustes.php:345
+msgid "Mensaje 6"
+msgstr ""
+
+#: admin/ajustes.php:287
+msgid "Mensaje de error en el PASO 2"
+msgstr ""
+
+#: admin/ajustes_whatsapp.php:97
+msgid "Mensaje de WhatsApp"
+msgstr ""
+
+#: admin/ajustes.php:369
+msgid "Mensaje error plantilla"
+msgstr ""
+
+#: admin/ajustes.php:353
+msgid "Mensaje error tintura"
+msgstr ""
+
+#: admin/ajustes.php:361
+msgid "Mensaje error tonalidad"
+msgstr ""
+
+#: admin/ajustes.php:297
+msgid "Mensaje inicial"
+msgstr ""
+
+#: admin/ajustes.php:377
+msgid "Mensaje proceso listo"
+msgstr ""
+
+#: admin/ajustes.php:71 admin/ajustes.php:143 admin/ajustes_modulo.php:196
+#: admin/ajustes_whatsapp.php:69 admin/descripcion_tipos.php:63
+#: includes/opciones.php:25 includes/opciones.php:25
+msgid "Mensajes"
+msgstr ""
+
+#: includes/lentes_contacto.php:77
+#: includes/lentes_contactos_administracion.php:38
+#: includes/lentes_contactos_administracion.php:104
+msgid "Miopia o Hipermetropía"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:118
+msgid "Miopía o Hipermetropía"
+msgstr ""
+
+#: includes/functions.php:41
+msgid "Monturas"
+msgstr ""
+
+#: includes/proceso_compra.php:2110 includes/proceso_compra.php:2114
+msgid "More Info"
+msgstr ""
+
+#: includes/proceso_compra.php:214
+msgid "No"
+msgstr ""
+
+#: admin/ajustes.php:8 admin/ajustes_modulo.php:8 admin/ajustes_whatsapp.php:9
+#: admin/configuracion.php:9 admin/descripcion_tipos.php:9
+#: admin/documentacion.php:8 admin/formulas.php:8
+#: admin/formulas_lentes_contacto.php:8 admin/licencia.php:9
+msgid "No tienes suficientes permisos para acceder a esta página."
+msgstr ""
+
+#: includes/plantilla_formula.php:821 includes/plantilla_formula.php:897
+#: includes/proceso_compra.php:124
+msgid "Nombre de la plantilla"
+msgstr ""
+
+#: includes/proceso_compra.php:566
+msgid "Nombre de la plantilla:"
+msgstr ""
+
+#: includes/lentes.php:337
+msgid "Nuevo Filtro"
+msgstr ""
+
+#: admin/ajustes_whatsapp.php:88
+msgid "Número de Whatsapp"
+msgstr ""
+
+#: tecno-opticas.php:210 tecno-opticas.php:729
+msgid ""
+"Observamos datos incoherentes en la formula, ¿Seguro que ingresaste los "
+"datos correctos? Si crees que todo está bien presiona el botón Aceptar, de "
+"lo contrario por favor corrige la fórmula."
+msgstr ""
+
+#: admin/ajustes_modulo.php:284 admin/descripcion_tipos.php:138
+#: admin/formulas.php:156 includes/lentes.php:79
+#: includes/plantilla_formula.php:217 includes/plantilla_formula.php:804
+#: includes/proceso_compra.php:717
+msgid "Ocupacionales"
+msgstr ""
+
+#: includes/plantilla_formula.php:327 includes/plantilla_formula.php:446
+#: includes/plantilla_formula.php:877
+msgid "Ojo Der"
+msgstr ""
+
+#: tecno-opticas.php:414 tecno-opticas.php:470 includes/proceso_compra.php:1054
+msgid "Ojo Derecho"
+msgstr ""
+
+#: includes/plantilla_formula.php:334 includes/plantilla_formula.php:453
+#: includes/plantilla_formula.php:883
+msgid "Ojo Izq"
+msgstr ""
+
+#: tecno-opticas.php:432 tecno-opticas.php:477 includes/proceso_compra.php:1012
+#: includes/proceso_compra.php:1061
+msgid "Ojo Izquierdo"
+msgstr ""
+
+#: includes/opciones.php:22
+msgid "Opciones de Filtros"
+msgstr ""
+
+#: includes/lentes.php:358
+msgid "Opciones de filtros"
+msgstr ""
+
+#: includes/lentes.php:314 includes/lentes.php:398
+msgid "Opciones del filtro"
+msgstr ""
+
+#: admin/ajustes_modulo.php:307
+msgid "Opción 1"
+msgstr ""
+
+#: admin/ajustes_modulo.php:308
+msgid "Opción 2"
+msgstr ""
+
+#: includes/lentes.php:357 includes/lentes.php:359
+msgid "Opción del filtro"
+msgstr ""
+
+#: includes/lentes.php:607 includes/proceso_compra.php:1434
+#: includes/proceso_compra.php:1434
+msgid "Oscuro Degradado"
+msgstr ""
+
+#: includes/lentes.php:604 includes/proceso_compra.php:1431
+#: includes/proceso_compra.php:1431
+msgid "Oscuro Sólido"
+msgstr ""
+
+#: admin/ajustes.php:99
+msgid ""
+"Oye, te faltó la plantilla de la fórmula, pero tranquilo está en rojo para "
+"señalártelo, recuerda hacer clic en el botón confirmar fórmula."
+msgstr ""
+
+#: admin/ajustes.php:71
+msgid "para el proceso de compra almacenados correctamente"
+msgstr ""
+
+#: admin/ajustes_modulo.php:108
+msgid "para el proceso de compra guardado correctamente"
+msgstr ""
+
+#: tecno-opticas.php:96
+#, php-format
+msgid ""
+"Para poder activar el módulo <strong>%s</strong>, necesita tener instalado "
+"primero Woocommerce"
+msgstr ""
+
+#: tecno-opticas.php:711
+msgid ""
+"Para tu comodidad en el futuro, por favor selecciona un nombre para tu "
+"plantilla y haz clic en el botón Continuar."
+msgstr ""
+
+#: tecno-opticas.php:1139
+msgid "Parámetros no válidos"
+msgstr ""
+
+#: admin/ajustes.php:175
+msgid "PASO 1"
+msgstr ""
+
+#: tecno-opticas.php:645
+msgid "PASO 1: Plantilla Previa"
+msgstr ""
+
+#: admin/ajustes.php:191
+msgid "PASO 2"
+msgstr ""
+
+#: tecno-opticas.php:657
+msgid "PASO 2: Tipo de Lentes"
+msgstr ""
+
+#: admin/ajustes.php:207
+msgid "PASO 3"
+msgstr ""
+
+#: tecno-opticas.php:669
+msgid "PASO 3: Filtros"
+msgstr ""
+
+#: admin/ajustes.php:223
+msgid "PASO 4"
+msgstr ""
+
+#: tecno-opticas.php:681
+msgid "PASO 4: Marca y Modelo de Lentes"
+msgstr ""
+
+#: admin/ajustes.php:239
+msgid "PASO 5"
+msgstr ""
+
+#: tecno-opticas.php:693
+msgid "PASO 5: Comentarios"
+msgstr ""
+
+#: admin/ajustes.php:255
+msgid "PASO 6"
+msgstr ""
+
+#: tecno-opticas.php:705
+msgid "PASO 6: Crear Plantilla"
+msgstr ""
+
+#: admin/ajustes.php:271
+msgid "PASO 7"
+msgstr ""
+
+#: tecno-opticas.php:717
+msgid "PASO 7: Confirmación"
+msgstr ""
+
+#: includes/monturas.php:231
+msgid "Peso (g)"
+msgstr ""
+
+#: includes/plantilla_formula.php:125
+msgid "Plantilla"
+msgstr ""
+
+#: templates/proceso_compra/configurar_formula.php:55
+#: templates/proceso_compra/configurar_formula.php:108
+msgid "Plantilla de Fórmula"
+msgstr ""
+
+#: includes/plantilla_formula.php:27
+msgid "Plantillas de fórmulas"
+msgstr ""
+
+#: tecno-opticas.php:533 includes/proceso_compra.php:1120
+msgid "Please upload the picture of your face for more precise measurements:"
+msgstr ""
+
+#: tecno-opticas.php:699
+msgid ""
+"Por favor escribe cualquier comentario que desees agregar a tu pedido y "
+"luego haz clic en el botón Continuar."
+msgstr ""
+
+#: includes/lentes_contacto.php:75
+msgid "Por favor indique la característica para el lente de contacto"
+msgstr ""
+
+#: includes/proceso_compra.php:1444
+msgid "Por favor ingrese un nombre para identificar la fórmula"
+msgstr ""
+
+#: tecno-opticas.php:687
+msgid ""
+"Por favor lee bien la información en pantalla acerca de los parámetros "
+"asociados a los lentes. Luego, escoge la marca y el modelo de lente que "
+"desees. Para ver los lentes disponibles, mueve la barra lateral hacia abajo."
+msgstr ""
+
+#: admin/ajustes.php:92
+msgid ""
+"Por favor lee el proceso indicado arriba para que conozcas cómo vamos a "
+"configurar tu montura formulada. Luego haz clic en el botón Continuar."
+msgstr ""
+
+#: tecno-opticas.php:625
+msgid ""
+"Por favor lee el proceso indicado arriba para que conozcas cómo vamos a "
+"configurar tus gafas con lentes formulados. Luego haz clic en el botón "
+"Continuar.\n"
+"\n"
+"        <strong>Para el proceso de configuración de tus gafas con lentes "
+"formulados, por favor toma en cuenta lo siguiente:</strong>\n"
+"        <ol>\n"
+"            <li>Seleccionar el tipo de lente. Si te aparece la casilla "
+"<strong>Plantilla de Fórmula</strong>, puedes además escoger alguna de tus "
+"fórmulas que hayas guardado previamente.</li>\n"
+"            <li>Llenar todos los campos de tu fórmula y subir la "
+"prescripción de tu optómetra.</li>\n"
+"            <li>Seleccionar las características de los lentes.</li>\n"
+"            <li>Seleccionar de la lista de lentes, el que más se ajusta a "
+"tus preferencias.</li>\n"
+"            <li>Si quieres reutilizar la fórmula posteriormente, asigna un "
+"nombre a la misma para generar la plantilla.</li>\n"
+"            <li>Luego de cumplir todos los pasos anteriores, haz clic en el "
+"botón Comprar para agregar tu montura y los lentes al carrito de compra.</li>"
+"\n"
+"        </ol>"
+msgstr ""
+
+#: tecno-opticas.php:499 tecno-opticas.php:549 includes/proceso_compra.php:1086
+msgid ""
+"Por favor llene los datos que se muestran a continuación. Todos los campos "
+"en rojo son obligatorios."
+msgstr ""
+
+#: admin/ajustes_modulo.php:234
+msgid ""
+"Por favor marque abajo los tipos de visión que desea habilitar en el módulo:"
+msgstr ""
+
+#: tecno-opticas.php:663
+msgid ""
+"Por favor selecciona ahora uno de nuestros tipos de lentes, y luego si no "
+"son de Descanso, llena TODOS los campos de tu fórmula. Adicionalmente, te "
+"recomendamos cargar la imagen de la prescripción de la fórmula del Optómetra "
+"para verificarla. Una vez que hayas llenado todo, haz clic en el botón "
+"Continuar:"
+msgstr ""
+
+#: tecno-opticas.php:675
+msgid ""
+"Por favor selecciona el filtro del lente que prefieras, luego haz clic en el "
+"botón Continuar:"
+msgstr ""
+
+#: tecno-opticas.php:583
+msgid "Por favor, suba una foto de su cara para obtener medidas más precisas:"
+msgstr ""
+
+#: includes/monturas.php:32
+msgid "Precio de la Montura"
+msgstr ""
+
+#: includes/lentes.php:499
+#, php-format
+msgid "Precio del filtro (%s)"
+msgstr ""
+
+#: includes/lentes.php:152
+#, php-format
+msgid "Precio EOC (%s)"
+msgstr ""
+
+#: includes/lentes_contacto.php:35
+#, php-format
+msgid "Precio Lente (%s)"
+msgstr ""
+
+#: includes/monturas.php:59
+#, php-format
+msgid "Precio Montura (%s)"
+msgstr ""
+
+#: includes/lentes_contacto.php:51 includes/monturas.php:75
+#, php-format
+msgid "Precio Rebajado (%s)"
+msgstr ""
+
+#: includes/proceso_compra.php:1470 includes/proceso_compra.php:1491
+#: includes/proceso_compra.php:1512 includes/proceso_compra.php:1533
+#: includes/proceso_compra.php:1554
+msgid "Precio:"
+msgstr ""
+
+#: includes/functions.php:1117 includes/functions.php:1222
+#: includes/functions.php:1330 includes/functions.php:1438
+msgid "Primer Rango"
+msgstr ""
+
+#: includes/proceso_compra.php:1928
+msgid "Proceso de compra Cancelado"
+msgstr ""
+
+#: admin/ajustes_modulo.php:273 admin/formulas.php:153
+#: includes/proceso_compra.php:708
+msgid "Progresivo"
+msgstr ""
+
+#: admin/descripcion_tipos.php:110 includes/lentes.php:78
+#: includes/plantilla_formula.php:211 includes/plantilla_formula.php:798
+msgid "Progresivos"
+msgstr ""
+
+#: includes/proceso_compra.php:266
+msgid "Puente"
+msgstr ""
+
+#: includes/monturas.php:187
+msgid "Puente (mm)"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:215
+msgid "rango alto de la cilindro"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:229
+msgid "rango alto de la eje"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:145
+#: admin/formulas_lentes_contacto.php:201
+msgid "rango alto de la esfera"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:218
+msgid "rango bajo de la cilindro"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:232
+msgid "rango bajo de la eje"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:148
+#: admin/formulas_lentes_contacto.php:204
+msgid "rango bajo de la esfera"
+msgstr ""
+
+#: admin/formulas.php:268
+msgid "Rango de fórmulas para lentes Bifocales"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:182
+msgid "Rango de fórmulas para lentes de contacto con visión Astigmatismo"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:126
+msgid ""
+"Rango de fórmulas para lentes de contacto con visión Miopía o Hipermetropía"
+msgstr ""
+
+#: admin/formulas.php:165
+msgid "Rango de fórmulas para lentes de Visión Sencilla"
+msgstr ""
+
+#: admin/formulas.php:522
+msgid "Rango de fórmulas para lentes Ocupacionales"
+msgstr ""
+
+#: admin/formulas.php:395
+msgid "Rango de fórmulas para lentes Progresivos"
+msgstr ""
+
+#: includes/lentes.php:564 includes/lentes.php:565
+msgid "Rango mayor"
+msgstr ""
+
+#: includes/lentes.php:579 includes/lentes.php:580
+msgid "Rango menor"
+msgstr ""
+
+#: admin/formulas.php:175 admin/formulas.php:278 admin/formulas.php:405
+#: admin/formulas.php:532 admin/formulas_lentes_contacto.php:136
+#: admin/formulas_lentes_contacto.php:192
+msgid "Rango más alto"
+msgstr ""
+
+#: admin/formulas.php:176 admin/formulas.php:279 admin/formulas.php:406
+#: admin/formulas.php:533 admin/formulas_lentes_contacto.php:137
+#: admin/formulas_lentes_contacto.php:193
+msgid "Rango más bajo"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:221
+msgid "salto de la cilindro"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:235
+msgid "salto de la eje"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:151
+#: admin/formulas_lentes_contacto.php:207
+msgid "salto de la esfera"
+msgstr ""
+
+#: admin/formulas.php:190 admin/formulas.php:204 admin/formulas.php:218
+#: admin/formulas.php:293 admin/formulas.php:307 admin/formulas.php:321
+#: admin/formulas.php:335 admin/formulas.php:420 admin/formulas.php:434
+#: admin/formulas.php:448 admin/formulas.php:462 admin/formulas.php:547
+#: admin/formulas.php:561 admin/formulas.php:575 admin/formulas.php:589
+#: admin/formulas_lentes_contacto.php:151
+#: admin/formulas_lentes_contacto.php:207
+#: admin/formulas_lentes_contacto.php:221
+#: admin/formulas_lentes_contacto.php:235
+msgid "salto de los valores"
+msgstr ""
+
+#: admin/formulas.php:177 admin/formulas.php:280 admin/formulas.php:407
+#: admin/formulas.php:534 admin/formulas_lentes_contacto.php:138
+#: admin/formulas_lentes_contacto.php:194
+msgid "Salto del rango"
+msgstr ""
+
+#: tecno-opticas.php:1160
+msgid "Se ha producido un error, vuelva a intentarlo"
+msgstr ""
+
+#: tecno-opticas.php:1153
+msgid ""
+"Se requiere un ID de dispositivo, esta clave de licencia fue activada con un "
+"ID de dispositivo, se requiere un ID de dispositivo para desactivarla"
+msgstr ""
+
+#: includes/functions.php:1120 includes/functions.php:1225
+#: includes/functions.php:1333 includes/functions.php:1441
+msgid "Segundo Rango"
+msgstr ""
+
+#: includes/functions.php:1026 includes/functions.php:1106
+#: includes/functions.php:1210 includes/functions.php:1318
+#: includes/functions.php:1426 includes/lentes.php:74 includes/lentes.php:206
+#: includes/plantilla_formula.php:776
+msgid "Seleccionar"
+msgstr ""
+
+#: includes/lentes.php:145
+msgid "Seleccione el tipo de lentes"
+msgstr ""
+
+#: includes/proceso_compra_lentes_contacto.php:187
+#: includes/proceso_compra_lentes_contacto.php:351
+msgid ""
+"Seleccione la imagen de la fórmula preescrita por su oftalmólogo/optómetra "
+"para poder seguir con el proceso de compra."
+msgstr ""
+
+#: tecno-opticas.php:520 tecno-opticas.php:570 includes/proceso_compra.php:1107
+msgid ""
+"Seleccione la imagen de la fórmula preescrita por su oftalmólogo/optómetra, "
+"así nosotros verificaremos que los datos que hayas ingresado sean correctos, "
+"si decides no subir tu fórmula y te equivocas al configurar las "
+"especificaciones la fórmula el lente quedará exactamente como ingresaste la "
+"fórmula."
+msgstr ""
+
+#: templates/proceso_compra/configurar_formula.php:57
+#: templates/proceso_compra/configurar_formula.php:110
+msgid "Seleccione una fórmula"
+msgstr ""
+
+#: includes/lentes.php:601 includes/proceso_compra.php:1416
+#: includes/proceso_compra.php:1428
+msgid "Seleccione una opción"
+msgstr ""
+
+#: includes/proceso_compra.php:70 includes/proceso_compra.php:211
+#: includes/proceso_compra.php:360
+msgid "Si"
+msgstr ""
+
+#: tecno-opticas.php:651
+msgid ""
+"Si haz guardado una plantilla de configuración de tus gafas previamente, por "
+"favor selecciónala, de lo contrario haz clic en Continuar:"
+msgstr ""
+
+#: tecno-opticas.php:506 tecno-opticas.php:556
+msgid ""
+"Si tienes problemas para interpretar tu fórmula,\n"
+"                                escríbenos vía whatsapp, uno de nuestros "
+"asesores te ayudará lo más rápido posible."
+msgstr ""
+
+#: includes/proceso_compra.php:1094
+#: includes/proceso_compra_lentes_contacto.php:168
+msgid ""
+"Si tienes problemas para interpretar tu fórmula, escríbenos vía whatsapp, "
+"uno de nuestros asesores te ayudará lo más rápido posible."
+msgstr ""
+
+#: includes/proceso_compra_lentes_contacto.php:331
+msgid ""
+"Si tienes problemas para interpretar tu fórmula,escríbenos vía whatsapp, uno "
+"de nuestros asesores te ayudará lo más rápido posible."
+msgstr ""
+
+#: tecno-opticas.php:150
+msgid ""
+"Si ya usted tiene su licencia por favor ingrese <a href=\"/wp-admin/admin."
+"php?page=tecno-opticas/admin/licencia.php\">aquí</a> para activar el plugin."
+msgstr ""
+
+#: includes/monturas.php:162
+msgid "Silueta"
+msgstr ""
+
+#: includes/proceso_compra.php:331
+msgid "Silueta:"
+msgstr ""
+
+#: includes/monturas.php:267
+msgid "Siluetas"
+msgstr ""
+
+#: includes/monturas.php:268 includes/monturas.php:269
+msgid "Siluetas para las monturas"
+msgstr ""
+
+#: includes/proceso_compra.php:148
+msgid "SKU de la montura"
+msgstr ""
+
+#: includes/proceso_compra.php:615
+msgid "SKU de la montura:"
+msgstr ""
+
+#: tecno-opticas.php:1146
+msgid "Su dominio no es válido"
+msgstr ""
+
+#: includes/proceso_compra.php:319
+msgid "Tamaños"
+msgstr ""
+
+#. Name of the plugin
+#: admin/configuracion.php:13
+msgid "Tecno Opticas"
+msgstr ""
+
+#: admin/ajustes.php:12 admin/ajustes_modulo.php:12
+#: admin/ajustes_whatsapp.php:13 admin/descripcion_tipos.php:13
+#: admin/documentacion.php:12
+msgid "Tecno Ópticas"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"TecnoCommerce Ópticas es un Catálogo de Monturas Oftálmicas, Lentes de "
+"Contacto, Lentes para Monturas, Gafas y Accesorios."
+msgstr ""
+
+#. Author of the plugin
+msgid "TecnoSoluciones de Colombia S.A.S"
+msgstr ""
+
+#: includes/functions.php:1123 includes/functions.php:1228
+#: includes/functions.php:1336 includes/functions.php:1444
+msgid "Tercer Rango"
+msgstr ""
+
+#: includes/proceso_compra.php:132 includes/proceso_compra.php:1377
+msgid "Tintura del lente"
+msgstr ""
+
+#: includes/proceso_compra.php:587
+msgid "Tintura del lente:"
+msgstr ""
+
+#: templates/proceso_compra/configurar_formula_opcion_2.php:197
+msgid "TIPO DE LENTES"
+msgstr ""
+
+#: includes/proceso_compra.php:120
+msgid "Tipo de Vision"
+msgstr ""
+
+#: includes/proceso_compra.php:559
+msgid "Tipo de Vision:"
+msgstr ""
+
+#: includes/plantilla_formula.php:258 includes/plantilla_formula.php:305
+#: includes/plantilla_formula.php:825 includes/plantilla_formula.php:898
+msgid "Tipo de Visión"
+msgstr ""
+
+#: includes/lentes.php:599 includes/proceso_compra.php:1414
+#: includes/proceso_compra.php:1426
+msgid "Tonalidad"
+msgstr ""
+
+#: includes/proceso_compra.php:128
+msgid "Tonalidad del color"
+msgstr ""
+
+#: includes/proceso_compra.php:573
+msgid "Tonalidad del color:"
+msgstr ""
+
+#: includes/lentes.php:506
+msgid "Tonalidad del filtro"
+msgstr ""
+
+#: admin/configuracion.php:16
+msgid ""
+"Usted, haciendo uso del hook <strong>[two_factor_ts]</strong> podrá integrar "
+"en cualquier otra página el proceso de configuración y activación de la "
+"autenticación en dos factores."
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:145
+#: admin/formulas_lentes_contacto.php:201
+#: admin/formulas_lentes_contacto.php:215
+#: admin/formulas_lentes_contacto.php:229
+msgid "Valor del rango más alto"
+msgstr ""
+
+#: admin/formulas_lentes_contacto.php:148
+#: admin/formulas_lentes_contacto.php:204
+#: admin/formulas_lentes_contacto.php:218
+#: admin/formulas_lentes_contacto.php:232
+msgid "Valor del rango más bajo"
+msgstr ""
+
+#: admin/formulas.php:187 admin/formulas.php:201 admin/formulas.php:290
+#: admin/formulas.php:304 admin/formulas.php:318 admin/formulas.php:417
+#: admin/formulas.php:431 admin/formulas.php:445 admin/formulas.php:544
+#: admin/formulas.php:558 admin/formulas.php:572
+msgid "Valor del rango negativo más bajo"
+msgstr ""
+
+#: admin/formulas.php:184 admin/formulas.php:198 admin/formulas.php:212
+#: admin/formulas.php:287 admin/formulas.php:301 admin/formulas.php:315
+#: admin/formulas.php:329 admin/formulas.php:414 admin/formulas.php:428
+#: admin/formulas.php:442 admin/formulas.php:456 admin/formulas.php:541
+#: admin/formulas.php:555 admin/formulas.php:569 admin/formulas.php:583
+msgid "Valor del rango positivo más alto"
+msgstr ""
+
+#: admin/formulas.php:215 admin/formulas.php:332 admin/formulas.php:459
+#: admin/formulas.php:586
+msgid "Valor del rango positivo más bajo"
+msgstr ""
+
+#: admin/ajustes_modulo.php:251
+msgid "Visión"
+msgstr ""
+
+#: admin/descripcion_tipos.php:97 admin/formulas.php:147 includes/lentes.php:76
+#: includes/plantilla_formula.php:199 includes/plantilla_formula.php:786
+msgid "Visión Sencilla"
+msgstr ""
+
+#: includes/proceso_compra.php:690
+msgid "Visión sencilla"
+msgstr ""
+
+#: admin/ajustes.php:100
+msgid ""
+"Ya estás listo para realizar la compra de tus gafas formuladas. Ahora solo "
+"debes hacer clic en Comprar para agregarlas a tu carrito."
+msgstr ""
+
+#: includes/proceso_compra.php:76 includes/proceso_compra.php:209
+msgid "¿Deseas la montura con lentes formulados?"
+msgstr ""
+
+#: includes/proceso_compra.php:482
+msgid "¿Deseas la montura con lentes formulados?:"
+msgstr ""

@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: TecnoSoluciones.com <ventas@tecnosoluciones.com>\n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.1\n"
+
+msgid "Enabled"
+msgstr "Habilitado"
+
+msgid "Yes"
+msgstr "Sí"
+
+msgid "No"
+msgstr "No"
+
+msgid ""
+"Clover payments is available in the United States and Canada. Please select "
+"\"\"Yes\"\" to enable in checkout"
+msgstr ""
+"Los pagos de Clover están disponibles en Estados Unidos y Canadá. Seleccione "
+"\"Sí\" para habilitar en el proceso de pago"
+
+msgid "Title"
+msgstr "Título"
+
+msgid "Preferred name to display as checkout title"
+msgstr "Nombre preferido para mostrar como título de pago"
+
+msgid "Environment"
+msgstr "Ambiente"
+
+msgid ""
+"We provide the option for Merchants and Developers to test their "
+"integrations against their sandbox accounts prior, to going live. Select "
+"“Production” when you want to send transactions to your production "
+"environment"
+msgstr ""
+"Ofrecemos la opción de que los comerciantes y desarrolladores prueben sus "
+"integraciones con sus cuentas de sandbox antes de la puesta en marcha. "
+"Seleccione \"Producción\" cuando desee enviar transacciones a su entorno de "
+"producción"
+
+msgid "Sandbox Merchant ID"
+msgstr "Sandbox Merchant ID"
+
+msgid "Sandbox Public Key"
+msgstr "Sandbox Clave Pública"
+
+msgid ""
+"Please visit <a href=\"\"https://sandbox.dev.clover.com/\"\" "
+"target=\"\"_blank\"\" rel=\"\"noopener noreferrer\"\">clover developer "
+"portal</a> to get sandbox public key"
+msgstr ""
+"Visite <a href=\"\" https://sandbox.dev.clover.com/\"\"=\"\" target=\"\" "
+"_blank\"\"=\"\" rel=\"\" noopener=\"\" noreferrer\"\"=\"\">el portal para "
+"desarrolladores de clover para</a> obtener la clave pública de sandbox"
+
+msgid "Sandbox Private Key"
+msgstr "Sandbox Private Key"
+
+msgid ""
+"Please visit <a href=\"https://sandbox.dev.clover.com/\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">clover developer portal</a> to get sandbox "
+"private key"
+msgstr ""
+"Visite <a href=\"https://sandbox.dev.clover.com/\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">el portal para desarrolladores de clover para</"
+"a> obtener la clave privada de sandbox"
+
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+msgid "Public Key"
+msgstr "Clave Pública"
+
+msgid ""
+"Please visit <a href=\"\"https://clover.com/\"\" target=\"\"_blank\"\" "
+"rel=\"\"noopener noreferrer\"\">clover merchant portal</a> to get  public key"
+msgstr ""
+"Visite el <a href=\"\" https://clover.com/\"\"=\"\" target=\"\" "
+"_blank\"\"=\"\" rel=\"\" noopener=\"\" noreferrer\"\"=\"\">portal comercial "
+"de clover</a> para obtener la clave pública"
+
+msgid "Private Key"
+msgstr "Clave Privada"
+
+msgid ""
+"Please visit <a href=\"https://clover.com/\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">clover merchant portal</a> to get  private key"
+msgstr ""
+"Visite el <a href=\"https://clover.com/\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">portal comercial de clover</a> para obtener la clave privada"
+
+msgid "Payment Action"
+msgstr "Método de pago"
+
+msgid "Authorize and Capture"
+msgstr "Autorizar y capturar"
+
+msgid "Authorize"
+msgstr "Autorizar"
+
+msgid "Debug"
+msgstr "Depurar"
+
+#: Dynamic error mapping class_woo_clv_errormapper.php
+msgid "Transaction cannot be processed, please contact the merchant"
+msgstr "La transacción no se puede procesar, comuníquese con el comerciante"
+
+msgid ""
+"Transaction declined, please check card information or use a different card"
+msgstr ""
+"Transacción rechazada, verifique la información de la tarjeta o use una "
+"tarjeta diferente"
+
+msgid "Transaction failed, incorrect card data"
+msgstr "Error en la transacción, datos de tarjeta incorrectos"
+
+msgid "Transaction as already been captured"
+msgstr "Transacción como ya se ha capturado"
+
+msgid "Transaction has already been refunded"
+msgstr "La transacción ya ha sido reembolsada"
+
+msgid "Email ID is invalid, enter valid email ID and retry"
+msgstr ""
+"El ID de correo electrónico no es válido, ingrese el ID de correo "
+"electrónico válido y vuelva a intentarlo"
+
+msgid "Card expired, enter valid card number and retry"
+msgstr ""
+"Tarjeta vencida, ingrese el número de tarjeta válido y vuelva a intentarlo"
+
+msgid "CVV value is incorrect, enter correct CVV value and retry"
+msgstr ""
+"El valor de CVV es incorrecto, introduzca el valor de CVV correcto y vuelva "
+"a intentarlo"
+
+msgid "Card number is invalid, enter valid card number and retry"
+msgstr ""
+"El número de tarjeta no es válido, ingrese el número de tarjeta válido y "
+"vuelva a intentarlo"
+
+msgid "Card brand is invalid or not supported, please use valid card and retry"
+msgstr ""
+"La marca de la tarjeta no es válida o no es compatible, utilice una tarjeta "
+"válida y vuelva a intentarlo"
+
+msgid "Invalid transaction amount, please contact merchant"
+msgstr "Monto de transacción no válido, comuníquese con el comerciante"
+
+msgid "Card is invalid, please retry with a new card"
+msgstr "La tarjeta no es válida, vuelva a intentarlo con una nueva tarjeta"
+
+msgid "Invalid tip amount, please correct and retry"
+msgstr "Monto de propina no válido, corríjalo y vuelva a intentarlo"
+
+msgid "Incorrect tax amount, please correct and retry"
+msgstr "Monto de impuestos incorrecto, corríjalo y vuelva a intentarlo"
+
+msgid "Unable to process transaction"
+msgstr "No se puede procesar la transacción"
+
+msgid "Order already paid"
+msgstr "Pedido ya pagado"
+
+msgid "Transaction could not be processed"
+msgstr "No se pudo procesar la transacción"
+
+msgid "Transaction could not be processed, please contact the merchant"
+msgstr "No se pudo procesar la transacción, comuníquese con el comerciante"
+
+msgid "Transaction could not be processed due to incorrect or invalid data"
+msgstr ""
+"La transacción no se pudo procesar debido a datos incorrectos o no válidos"
+
+msgid ""
+"Transaction could not be processed, please renter card details and retry"
+msgstr ""
+"No se pudo procesar la transacción, ingrese los detalles de la tarjeta y "
+"vuelva a intentarlo"
+
+msgid "Unauthorized, please contact the merchant"
+msgstr "Si no está autorizado, póngase en contacto con el comerciante"
+
+msgid "Transaction failed, incorrect data provided"
+msgstr "Error en la transacción, datos incorrectos proporcionados"
+
+msgid "Transaction could not be processed, please retry"
+msgstr "No se pudo procesar la transacción, vuelva a intentarlo"
+
+msgid "(0003) Transaction could be processed, please contact the merchant"
+msgstr ""
+"(0003) La transacción podría ser procesada, póngase en contacto con el "
+"comerciante"
+
+msgid ""
+"Clover simplifies the lives of small businesses with tailored, all-in-one "
+"payments and business management systems that can be implemented quickly and "
+"grow with the business."
+msgstr ""
+"Clover simplifica la vida de las pequeñas empresas con sistemas de gestión "
+"empresarial y pagos personalizados y todo en uno que se pueden implementar "
+"rápidamente y crecer con el negocio."
+
+msgid "Clover Payments"
+msgstr "Pagos de Clover"
+
+msgid "Refunded % – Refund ID: % – Status: succeeded"
+msgstr "% reembolsado – ID de reembolso: % – Estado: exitoso"
+
+msgid "Refunded %1$s - Refund ID: %2$s - Status: %3$s"
+msgstr "Reembolsado %1$s - ID de reembolso: %2$s - Estado: %3$s"
+
+msgid "Voided %1$s - Void ID: %2$s - Status: %3$s"
+msgstr "Voided %1$s - Void ID: %2$s - Estado: %3$s"
+
+msgid "Capture Charge"
+msgstr "Captura de la carga"
+
+msgid "Captured %1$s - Capture ID: %2$s - Status: %3$s"
+msgstr "Capturado %1$s - ID de captura: %2$s - Estado: %3$s"
+
+msgid "Captured %s Orders via Clover."
+msgstr "Capturado %s órdenes a través de Clover."
+
+msgid "Please enter refund value"
+msgstr "Introduzca el valor del reembolso"
+
+msgid "Please select a valid order to refund"
+msgstr "Por favor, seleccione un pedido válido para reembolsar"
+
+msgid "Awaiting offline payment"
+msgstr "A la espera del pago fuera de línea"
+
+msgid "An error has occurred, please try again"
+msgstr "Ha ocurrido un error. Por favor intente otra vez"
+
+msgid "Please select the correct order"
+msgstr "Por favor, seleccione el pedido correcto"
+
+msgid "Unable to Capture for cancelled,refunded or failed orders"
+msgstr "No se puede capturar para pedidos cancelados, reembolsados o fallidos"
+
+msgid "Already captured, Unable to process again"
+msgstr "Ya capturado, no se puede procesar de nuevo"
+
+msgid "Unable to process partial void transaction"
+msgstr "No se puede procesar una transacción nula parcial"
+
+msgid "Enable SSL to continue payment in production mode"
+msgstr "Habilitar SSL para continuar con el pago en modo de producción"
+
+msgid "Orders captured via Clover"
+msgstr "Pedidos capturados a través de Clover"

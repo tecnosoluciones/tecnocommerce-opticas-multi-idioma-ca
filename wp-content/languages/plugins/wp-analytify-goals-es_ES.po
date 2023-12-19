@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Analytics Goals by Analytify\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-05 09:25+0000\n"
+"PO-Revision-Date: 2021-03-08 11:40-0500\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2\n"
+
+#: class-wp-analytify-goals.php:122
+msgid "Activate License"
+msgstr "Activar licencia"
+
+#. Author of the plugin
+msgid "Analytify"
+msgstr "Primeros pasos con Analytify"
+
+#: class-wp-analytify-goals.php:106
+msgid "Analytify for Goals (License Key):"
+msgstr "Analytify para objetivos (clave de licencia):"
+
+#: includes/analytify-goals-view.php:158
+msgid "Custom Range"
+msgstr "Intérvalo"
+
+#: includes/analytify-goals-detail-view.php:53
+msgid "Details of Source / Medium"
+msgstr "Detalles de Fuente / Medio"
+
+#: includes/analytify-goals-view.php:129
+msgid "From:"
+msgstr "De:"
+
+#: includes/analytify-goals-view.php:239
+msgid "Goal Completions"
+msgstr "Finalización de objetivos"
+
+#: includes/analytify-goals-view.php:251
+msgid "Goal Conversion Rate"
+msgstr "Tasa de conversión de objetivos"
+
+#: includes/analytify-goals-view.php:245
+msgid "Goal Value"
+msgstr "Valor de Goal"
+
+#: class-wp-analytify-goals.php:74
+msgid "Goals"
+msgstr "Objetivos"
+
+#: includes/analytify-goals-view.php:111
+msgid "Goals Dashboard"
+msgstr "Panel de objetivos"
+
+#: includes/analytify-goals-detail-view.php:44
+msgid "Goals Detail Dashboard"
+msgstr "Panel de detalles de objetivos"
+
+#: includes/analytify-goals-view.php:112
+#: includes/analytify-goals-detail-view.php:45
+msgid "Goals Statistics of the Site"
+msgstr "Estadísticas de objetivos del Sitio"
+
+#. Name of the plugin
+msgid "Google Analytics Goals by Analytify"
+msgstr "Objetivos de Google Analytics por Analytify"
+
+#. Author URI of the plugin
+msgid "https://analytify.io"
+msgstr "https://analytify.io"
+
+#. URI of the plugin
+msgid "https://analytify.io/add-ons/google-analytics-goals-wordpress/"
+msgstr "https://analytify.io/add-ons/google-analytics-goals-wordpress/"
+
+#: includes/analytify-goals-view.php:141
+msgid "Last 14 days"
+msgstr "Últimos 14 días"
+
+#: includes/analytify-goals-view.php:150
+msgid "Last 3 months"
+msgstr "Últimos 3 meses"
+
+#: includes/analytify-goals-view.php:143
+msgid "Last 30 days"
+msgstr "Últimos 30 días"
+
+#: includes/analytify-goals-view.php:152
+msgid "Last 6 months"
+msgstr "Últimos 6 meses"
+
+#: includes/analytify-goals-view.php:139
+msgid "Last 7 days"
+msgstr "Últimos 7 días"
+
+#: includes/analytify-goals-view.php:147
+msgid "Last month"
+msgstr "Mes Pasado"
+
+#: includes/analytify-goals-view.php:155
+msgid "Last year"
+msgstr "El año pasado"
+
+#: includes/analytify-goals-view.php:259
+msgid "Number of Total Abandonment Rate"
+msgstr "Número de tasa total de abandono"
+
+#: wp-analytify-goals.php:24
+msgid "oops! Please activate Analytify Pro to use \"Analytify Goals\" add-on."
+msgstr "¡Oops! Active Analytify Pro para usar el complemento \"Objetivos analytify\"."
+
+#: wp-analytify-goals.php:17
+msgid "oops! Please Install Analytify Pro to use \"Analytify Goals\" add-on."
+msgstr "¡Oops! Instale Analytify Pro para usar el complemento \"Objetivos de Analytify\"."
+
+#: includes/analytify-goals-view.php:158
+msgid "Select a custom date"
+msgstr "Seleccione una fecha personalizada"
+
+#: includes/analytify-goals-detail-view.php:61
+msgid "Source / Medium"
+msgstr "Medio de origen"
+
+#. Description of the plugin
+msgid "This is a premium add-on to show you Goals results from Google Analytics."
+msgstr "Este es un complemento premium para mostrarle los resultados de objetivos de Google Analytics."
+
+#: includes/analytify-goals-view.php:145
+msgid "This month"
+msgstr "Este mes"
+
+#: includes/analytify-goals-view.php:131
+msgid "To:"
+msgstr "Para:"
+
+#: includes/analytify-goals-detail-view.php:62
+msgid "Total"
+msgstr "Total"
+
+#: includes/analytify-goals-view.php:257
+msgid "Total Abandonment Rate"
+msgstr "Tasa total de abandono"
+
+#: includes/analytify-goals-view.php:278
+msgid "Total Completions of Goal"
+msgstr "Total de terminaciones de meta"
+
+#: includes/analytify-goals-view.php:241
+msgid "Total number of Goal Completions"
+msgstr "Número total de terminaciones de metas"
+
+#: includes/analytify-goals-view.php:253
+msgid "Total number of Goal Conversion Rate"
+msgstr "Número total de tasas de conversión de objetivos"
+
+#: includes/analytify-goals-view.php:247
+msgid "Total number of Goal Value"
+msgstr "Número total de valor objetivo"
+
+#: includes/analytify-goals-view.php:279
+msgid "View More Details"
+msgstr "Daha Fazla Ayrıntıyı Görüntüle"
+
+#: includes/analytify-goals-view.php:136
+msgid "View Stats"
+msgstr "Ver Estadística"
+
+#: includes/analytify-goals-view.php:301
+#: includes/analytify-goals-detail-view.php:101
+msgid "You don't have access to Analytify Dashboard."
+msgstr "Usted no tiene acceso a Analytify Dashboard."
+
+#: includes/analytify-goals-view.php:297
+#: includes/analytify-goals-detail-view.php:97
+msgid "You must be authenticated to see the Analytics Dashboard."
+msgstr "Usted debe estar autenticar para ver la Analytics Dashboard."

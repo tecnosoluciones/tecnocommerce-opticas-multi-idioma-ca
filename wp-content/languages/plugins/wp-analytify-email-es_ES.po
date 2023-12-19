@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Project-Id-Version: Analytify Email Notifications\n"
+"POT-Creation-Date: 2019-01-25 12:19+0500\n"
+"PO-Revision-Date: 2021-03-08 09:44-0500\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-analytify-email.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Report-Msgid-Bugs-To: \n"
+"Language: es_ES\n"
+"X-Loco-Version: 2.5.1; wp-5.6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: views/edd-general-stats.php:27 views/woo-general-stats.php:27
+msgid "Transactions"
+msgstr "Transacciones"
+
+#: views/edd-general-stats.php:40 views/woo-general-stats.php:40
+msgid "Transaction Revenues"
+msgstr "Ingresos por transacciones"
+
+#: views/edd-general-stats.php:53 views/woo-general-stats.php:53
+msgid "Average Order Value"
+msgstr "Valor medio del pedido"
+
+#: views/edd-general-stats.php:68 views/woo-general-stats.php:68
+msgid "Product Adds To Cart"
+msgstr "Productos Añadidos al Carrito"
+
+#: views/edd-general-stats.php:81 views/woo-general-stats.php:81
+msgid "Product Removes From Cart"
+msgstr "Producto Quitados del Carrito"
+
+#: views/edd-general-stats.php:94 views/woo-general-stats.php:94
+msgid "Product Checkouts"
+msgstr "Pedidos de Productos (Checkouts)"
+
+#: views/edd-general-stats.php:109
+msgid "Refund Amount"
+msgstr "Cantidad reembolsada"
+
+#: views/edd-general-stats.php:122
+msgid "Total Refunds"
+msgstr "Reembolsos totales"
+
+#: views/edd-general-stats.php:135 views/woo-general-stats.php:135
+msgid "Product Detail Views"
+msgstr "Vistas de Detalles de Productos"
+
+#: views/edd-general-stats.php:156 views/woo-general-stats.php:156
+#, php-format
+msgid "Did you know that Ecommerce Conversion Rate on your site is %1$s"
+msgstr ""
+"¿Sabías que la Tasa de Conversión de Comercio Electrónico en tu sitio es de "
+"%1$s"
+
+#: views/general-stats-single.php:69
+msgid "Avg. time on page"
+msgstr "Tiempo medio en la página"
+
+#: views/general-stats-single.php:84
+msgid "Bounce Rate"
+msgstr "Tasa de rebote"
+
+#: views/general-stats.php:105
+msgid "Avg time on site"
+msgstr "Promedio tiempo en el sitio"
+
+#: views/general-stats.php:125
+msgid "Average pages"
+msgstr "Páginas medias"
+
+#: views/general-stats.php:182
+msgid "New visitors"
+msgstr "Nuevos visitantes"
+
+#: views/general-stats.php:200
+msgid "Returning visitors"
+msgstr "Visitantes Nuevos vs Recurrentes"
+
+#: views/geographic.php:42
+msgid "Top Cities"
+msgstr "Principales ciudades"
+
+#: views/keyword-referral.php:19
+msgid "Keywords"
+msgstr "Palabras clave"
+
+#: views/keyword-referral.php:21
+msgid "Top Referrers"
+msgstr "Top de Referidos"
+
+#: views/keyword-referral.php:33
+msgid "(not provided)"
+msgstr "(no provisto)"
+
+#: views/keyword-referral.php:35
+msgid "(not set)"
+msgstr "(Página no configurada)"
+
+#: views/keyword-referral.php:98
+msgid "See which keywords are matching what users search"
+msgstr "Vea qué palabras clave coinciden con lo que buscan los usuarios"
+
+#: views/keyword-referral.php:106
+msgid "Who are the top Referrers to your site? See above"
+msgstr "¿Quiénes son los principales referentes de su sitio? Ver arriba"
+
+#: views/system-stats.php:51
+msgid "Operating system"
+msgstr "Sistema operativo"
+
+#: views/system-stats.php:76
+msgid "Mobile device"
+msgstr "Dispositivo móvil"
+
+#: views/whats-happen.php:88
+msgid "Did you know that"
+msgstr "Sabía que"
+
+#: views/whats-happen.php:88
+msgid " people landed directly to your site at"
+msgstr " personas aterrizaron directamente a su sitio en"
+
+#: views/woo-general-stats.php:109
+msgid "Unique Purchases"
+msgstr "Compras únicas"
+
+#: views/woo-general-stats.php:122
+msgid "Product Clicks"
+msgstr "Clics de Productos"
+
+#: wp-analytify-email-class.php:85
+msgid "Email Notifications"
+msgstr "Notificaciones por Correo electrónico"
+
+#: wp-analytify-email-class.php:134
+msgid "Once Weekly"
+msgstr "Una vez a la semana"
+
+#: wp-analytify-email-class.php:141
+msgid "Once Every 2 Weeks"
+msgstr "Una vez cada 2 semanas"
+
+#: wp-analytify-email-class.php:148
+msgid "Once Every 4 Weeks"
+msgstr "Una vez cada 4 semanas"
+
+#: wp-analytify-email-class.php:169
+msgid "Email"
+msgstr "Email"
+
+#: wp-analytify-email-class.php:179
+msgid "Analytify detailed report sent!"
+msgstr "¡Informe detallado de Analytify enviado!"
+
+#: wp-analytify-email-class.php:199
+msgid "Top Pages Stats"
+msgstr "Estadísticas de las páginas superiores"
+
+#: wp-analytify-email-class.php:204
+msgid "Whats Happening Stats"
+msgstr "Estadísticas Actuales"
+
+#: wp-analytify-email-class.php:209
+msgid "E-Commerce Report"
+msgstr "Informe de comercio electrónico"
+
+#: wp-analytify-email-class.php:216
+msgid "From Name"
+msgstr "'Desde' Nombre"
+
+#: wp-analytify-email-class.php:217
+msgid "Sender Name."
+msgstr "Nombre del remitente."
+
+#: wp-analytify-email-class.php:224
+msgid "From Email"
+msgstr "Desde Email"
+
+#: wp-analytify-email-class.php:225
+msgid "Sender Email."
+msgstr "Correo electrónico del remitente."
+
+#: wp-analytify-email-class.php:232
+msgid "To Email Address"
+msgstr "A la dirección de correo electrónico"
+
+#: wp-analytify-email-class.php:233
+msgid "Use commas to add more than One Email."
+msgstr "Utilice comas para agregar más de un correo electrónico."
+
+#: wp-analytify-email-class.php:240
+msgid "Subject"
+msgstr "Tema"
+
+#: wp-analytify-email-class.php:241
+msgid "Add Email Subject"
+msgstr "Añadir asunto de correo electrónico"
+
+#: wp-analytify-email-class.php:248
+msgid "Select Email Stats"
+msgstr "Seleccionar estadísticas de correo electrónico"
+
+#: wp-analytify-email-class.php:249
+msgid "Select which Stats panels you want to display in Email. "
+msgstr ""
+"Selecciona qué paneles estadísticas quieres mostrar en Correo electrónico. "
+
+#: wp-analytify-email-class.php:256
+msgid "Set Schedule"
+msgstr "Establecer horario"
+
+#: wp-analytify-email-class.php:257
+msgid "Email sent automatically to the user scheduled time"
+msgstr ""
+"Correo electrónico enviado automáticamente a la hora programada por el "
+"usuario"
+
+#: wp-analytify-email-class.php:267
+msgid "Select Day"
+msgstr "Seleccionar Día"
+
+#: wp-analytify-email-class.php:277
+msgid "Select Date"
+msgstr "Seleccionar Fecha"
+
+#: wp-analytify-email-class.php:278
+msgid "1"
+msgstr "%1$s %2$s"
+
+#: wp-analytify-email-class.php:279
+msgid "2"
+msgstr "%1$s %2$s"
+
+#: wp-analytify-email-class.php:280
+msgid "3"
+msgstr "Últimos 3 meses"
+
+#: wp-analytify-email-class.php:281
+msgid "4"
+msgstr "4"
+
+#: wp-analytify-email-class.php:282
+msgid "5"
+msgstr "5. Acepte los términos y condiciones y envíe"
+
+#: wp-analytify-email-class.php:283
+msgid "6"
+msgstr "6"
+
+#: wp-analytify-email-class.php:284
+msgid "7"
+msgstr "7"
+
+#: wp-analytify-email-class.php:285
+msgid "8"
+msgstr ""
+"%1$s %2$s %3$sAviso:%4$s %5$sConectar%6$s %4$s Analiza con tu cuenta de "
+"Google. %7$s %8$s"
+
+#: wp-analytify-email-class.php:286
+msgid "9"
+msgstr "9"
+
+#: wp-analytify-email-class.php:287
+msgid "10"
+msgstr "10"
+
+#: wp-analytify-email-class.php:288
+msgid "11"
+msgstr "11"
+
+#: wp-analytify-email-class.php:289
+msgid "12"
+msgstr "12"
+
+#: wp-analytify-email-class.php:290
+msgid "13"
+msgstr "13"
+
+#: wp-analytify-email-class.php:291
+msgid "14"
+msgstr "14"
+
+#: wp-analytify-email-class.php:292
+msgid "15"
+msgstr "15"
+
+#: wp-analytify-email-class.php:293
+msgid "16"
+msgstr "16"
+
+#: wp-analytify-email-class.php:294
+msgid "17"
+msgstr "17"
+
+#: wp-analytify-email-class.php:295
+msgid "18"
+msgstr "18"
+
+#: wp-analytify-email-class.php:296
+msgid "19"
+msgstr "19"
+
+#: wp-analytify-email-class.php:297
+msgid "20"
+msgstr "20"
+
+#: wp-analytify-email-class.php:298
+msgid "21"
+msgstr "21"
+
+#: wp-analytify-email-class.php:299
+msgid "22"
+msgstr "22"
+
+#: wp-analytify-email-class.php:300
+msgid "23"
+msgstr "23"
+
+#: wp-analytify-email-class.php:301
+msgid "24"
+msgstr "24"
+
+#: wp-analytify-email-class.php:302
+msgid "25"
+msgstr "25"
+
+#: wp-analytify-email-class.php:303
+msgid "26"
+msgstr "26"
+
+#: wp-analytify-email-class.php:304
+msgid "27"
+msgstr "27"
+
+#: wp-analytify-email-class.php:305
+msgid "28"
+msgstr "28"
+
+#: wp-analytify-email-class.php:306
+msgid "Last Day"
+msgstr "Último día"
+
+#: wp-analytify-email-class.php:313
+msgid "Your Agency Logo"
+msgstr "Logotipo de su agencia"
+
+#: wp-analytify-email-class.php:314
+msgid ""
+"Add your Agency logo in Email Template.<br />Preferred size 150*150 pixel"
+msgstr ""
+"Añade tu logotipo de agencia en la plantilla de correo electrónico."
+"<br>Tamaño preferido 150 * 150 píxeles"
+
+#: wp-analytify-email-class.php:321
+msgid "Personal Note"
+msgstr "Notas personal"
+
+#: wp-analytify-email-class.php:322
+msgid ""
+"The personal message will be added in Email Report. Leave it empty to "
+"disable it."
+msgstr ""
+"El mensaje personal se agregará en el informe de correo electrónico. Déjelo "
+"vacío para desactivarlo."
+
+#: wp-analytify-email-class.php:329
+msgid "Hide 'Go To Dashboard' Button:"
+msgstr "Ocultar el botón 'Ir al panel':"
+
+#: wp-analytify-email-class.php:330
+msgid "Check this if you want to hide the Go To Dashboard button"
+msgstr "Compruebe esto si desea ocultar el botón Ir al panel"
+
+#: wp-analytify-email-class.php:355
+msgid "Email Notifications (License Key):"
+msgstr "Notificaciones por correo electrónico (clave de licencia):"
+
+#: wp-analytify-email-class.php:371
+msgid "Activate License"
+msgstr "Activar licencia"
+
+#: wp-analytify-email-class.php:549 wp-analytify-email-class.php:890
+msgid "Your Analytics Report"
+msgstr "Su informe de análisis"
+
+#: wp-analytify-email-class.php:699
+msgid "1 Week Detailed Report"
+msgstr "Informe detallado de 1 semana"
+
+#: wp-analytify-email-class.php:701
+msgid "1 Month Detailed  Report"
+msgstr "Informe detallado de 1 mes"
+
+#: wp-analytify-email-class.php:762
+msgid "Send Email"
+msgstr "Enviar Email"
+
+#: wp-analytify-email.php:49
+msgid ""
+"oops! Please Install Analytify Pro to use \"Analytify Email Notifications\" "
+"add-on."
+msgstr ""
+"¡Oops! Instale Analytify Pro para usar el complemento \"Notificaciones por "
+"correo electrónico analytify\"."
+
+#: wp-analytify-email.php:56
+msgid ""
+"oops! Please activate Analytify Pro to use \"Analytify Email Notifications\" "
+"add-on."
+msgstr ""
+"¡Oops! Active Analytify Pro para usar el complemento \"Notificaciones por "
+"correo electrónico analytify\"."
+
+#. Plugin Name of the plugin/theme
+msgid "Analytify Email Notifications"
+msgstr "Notificaciones por Email de Analytify"
+
+#. Plugin URI of the plugin/theme
+msgid "https://analytify.io/"
+msgstr "https://analytify.io/"
+
+#. Description of the plugin/theme
+msgid "Send your site Stats to your Client with Analytify Email add-on."
+msgstr ""
+"Envía tus estadísticas de sitio a tu cliente con el complemento Analytify "
+"Email."
+
+#. Author of the plugin/theme
+msgid "Adnan"
+msgstr "Adnan"
+
+#. Author URI of the plugin/theme
+msgid "http://adnan.pk/"
+msgstr "http://adnan.pk/"

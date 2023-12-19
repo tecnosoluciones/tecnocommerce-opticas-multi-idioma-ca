@@ -1,0 +1,537 @@
+# Translation of Plugins - One Click Accessibility - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - One Click Accessibility - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-20 16:46:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - One Click Accessibility - Stable (latest release)\n"
+
+#: includes/pojo-a11y-settings.php:310
+msgid "Skip to Content Element ID"
+msgstr "Pular para ID do elemento de conteúdo"
+
+#. Author URI of the plugin
+msgid "https://wpaccessibility.io/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+msgstr "https://wpaccessibility.io/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash"
+
+#. Description of the plugin
+msgid "The One Click Accessibility toolbar is the fastest plugin to help you make your WordPress website more accessible."
+msgstr "O One Click Accessibility é o plugin mais rápido para ajudá-lo a tornar seu site WordPress mais acessível."
+
+#. Plugin URI of the plugin
+msgid "https://wpaccessibility.io/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+msgstr "https://wpaccessibility.io/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash"
+
+#: includes/pojo-a11y-settings.php:591
+msgid "Customize Toolbar"
+msgstr "Personalizar Barra de Ferramentas"
+
+#: includes/pojo-a11y-settings.php:590
+msgid "Set Accessibility Toolbar Settings"
+msgstr "Definir Configurações da Barra de Ferramentas de Acessibilidade"
+
+#: includes/pojo-a11y-settings.php:589
+msgid "Set Accessibility settings"
+msgstr "Definir Configurações de Acessibilidade"
+
+#: includes/pojo-a11y-settings.php:580 includes/pojo-a11y-settings.php:581
+#: includes/pojo-a11y-settings.php:591
+msgid "Customize"
+msgstr "Customizar"
+
+#: includes/pojo-a11y-settings.php:573 includes/pojo-a11y-settings.php:590
+msgid "Toolbar"
+msgstr "Barra de Ferramentas"
+
+#: includes/pojo-a11y-settings.php:565 includes/pojo-a11y-settings.php:589
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/pojo-a11y-settings.php:356
+msgid "Define how long your toolbar settings will be remembered"
+msgstr "Defina por quanto tempo as configurações da sua barra de ferramentas serão lembradas"
+
+#: includes/pojo-a11y-settings.php:332
+msgid "This option will add <code>role=\"link\"</code> to all links on the page."
+msgstr "Esta opção adiconará <code>role=\"link\"</code> a todos os links da página."
+
+#: includes/pojo-a11y-settings.php:300
+msgid "Add skip to content link when using keyboard."
+msgstr "Adicionar pular para o link do conteúdo ao usar o teclado."
+
+#: includes/pojo-a11y-customizer.php:165 includes/pojo-a11y-settings.php:572
+msgid "Accessibility Toolbar"
+msgstr "Barra de Ferramentas de Acessibilidade"
+
+#: includes/pojo-a11y-customizer.php:164
+msgid "Additional Toolbar settings can be configured at the %s page."
+msgstr "Configurações adicionais da Barra de Ferramentas podem ser configuradas na página %s"
+
+#: includes/pojo-a11y-customizer.php:163
+msgid "Use the control below to customize the appearance and layout of the Accessibility Toolbar"
+msgstr "Use o controle abaixo para personalizar a aparência e o layout da Barra de Ferramentas de Acessibilidade"
+
+#: includes/pojo-a11y-customizer.php:154
+msgid "Set Focus outline color"
+msgstr "Definir cor de contorno do Foco"
+
+#: includes/pojo-a11y-customizer.php:146
+msgid "Set Focus outline width"
+msgstr "Definir Largura do contorno do Foco"
+
+#: includes/pojo-a11y-customizer.php:126
+msgid "Set Focus outline style"
+msgstr "Definir Estilo de contorno de Foco"
+
+#: includes/pojo-a11y-customizer.php:108
+msgid "Set Toolbar active text color"
+msgstr "Definir cor do texto ativo da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:103
+msgid "Active Color"
+msgstr "Cor Ativa"
+
+#: includes/pojo-a11y-customizer.php:98
+msgid "Set Toolbar active background color"
+msgstr "Definir cor de fundo ativa da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:93
+msgid "Active Background"
+msgstr "Background Ativo"
+
+#: includes/pojo-a11y-customizer.php:88
+msgid "Set Toolbar toggle button icon color"
+msgstr "Definir a cor do ícone do botão de alternância da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:78
+msgid "Set Toolbar toggle button background color"
+msgstr "Definir a cor de fundo do botão de Alternar da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:70
+msgid "Set Toolbar text color"
+msgstr "Definir cor do texto da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:65
+msgid "Toolbar Color"
+msgstr "Cor da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:60
+msgid "Set Toolbar background color"
+msgstr "Definir cor de fundo da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:55
+msgid "Toolbar Background"
+msgstr "Cor de fundo da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:50
+msgid "Set Toolbar top offset (Mobile)"
+msgstr "Definir deslocamento superior da Barra de Ferramentas (Móvel)"
+
+#: includes/pojo-a11y-customizer.php:47
+msgid "Offset from Top (Mobile)"
+msgstr "Deslocamento da parte Superior (Dispositivo móvel)"
+
+#: includes/pojo-a11y-customizer.php:42
+msgid "Set Toolbar top offset (Desktop)"
+msgstr "Definir deslocamento superior da Barra de Ferramentas (Desktop)"
+
+#: includes/pojo-a11y-customizer.php:39
+msgid "Offset from Top (Desktop)"
+msgstr "Deslocamento da parte Superior (Desktop)"
+
+#: includes/pojo-a11y-customizer.php:34
+msgid "Set Toolbar Position"
+msgstr "Definir a posição da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:27
+msgid "Toolbar Position"
+msgstr "Posição da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:22
+msgid "Set Toolbar Icon"
+msgstr "Definir o ícone da Barra de Ferramentas"
+
+#: includes/pojo-a11y-customizer.php:17
+msgid "One Click"
+msgstr "Um Clique"
+
+#: includes/pojo-a11y-customizer.php:18
+msgid "Wheelchair"
+msgstr "Cadeira de Rodas"
+
+#: includes/pojo-a11y-customizer.php:14
+msgid "Toolbar Icon"
+msgstr "Ícone da Barra de Ferramentas"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: includes/pojo-a11y-admin-ui.php:157 includes/pojo-a11y-settings.php:636
+#: includes/pojo-a11y-settings.php:637
+msgid "One Click Accessibility"
+msgstr "One Click Accessibility"
+
+#. translators: 1: One Click Accessibility, 2: Link to plugin review
+#: includes/pojo-a11y-admin-ui.php:156
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr "Curtiu %1$s? Por favor, deixe-nos uma avaliação de %2$s. Agradecemos muito seu apoio!"
+
+#: includes/pojo-a11y-admin-ui.php:131
+msgid "Install Now For Free!"
+msgstr "Instale Agora Gratuitamente !"
+
+#: includes/pojo-a11y-admin-ui.php:127
+msgid "Learn more about Elementor"
+msgstr "Saiba mais sobre o Elementor"
+
+#: includes/pojo-a11y-admin-ui.php:126
+msgid "Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design. The most advanced frontend drag & drop page builder."
+msgstr "Crie sites perfeitos de pixel de alta qualidade em velocidades recordes. Qualquer tema, qualquer página, qualquer design. O mais avançado construtor de páginas de arrastar e soltar de front-end."
+
+#: includes/pojo-a11y-admin-ui.php:125
+msgid "Do You Like One Click Accessibility? You'll Love Elementor!"
+msgstr "Você gosta do One Click Accessibility? Você vai adorar o Elementor!"
+
+#: includes/pojo-a11y-settings.php:365
+msgid "1 Month"
+msgstr "1 Mês"
+
+#: includes/pojo-a11y-settings.php:364
+msgid "1 Week"
+msgstr "1 Semana"
+
+#: includes/pojo-a11y-settings.php:363
+msgid "3 Days"
+msgstr "3 Dias"
+
+#: includes/pojo-a11y-settings.php:362
+msgid "2 Days"
+msgstr "2 Dias"
+
+#: includes/pojo-a11y-settings.php:361
+msgid "1 Day"
+msgstr "1 Dia"
+
+#: includes/pojo-a11y-settings.php:360
+msgid "12 Hours"
+msgstr "12 Horas"
+
+#: includes/pojo-a11y-settings.php:359
+msgid "6 Hours"
+msgstr "6 Horas"
+
+#: includes/pojo-a11y-settings.php:358
+msgid "1 Hour"
+msgstr "1 Hora"
+
+#: includes/pojo-a11y-settings.php:354
+msgid "Remember user for"
+msgstr "Lembrar usuário para"
+
+#: includes/pojo-a11y-settings.php:343
+msgid "Consistent accessibility throughout your site visit. Site remembers you and stays accessible."
+msgstr "Acessibilidade consistente durante toda a visita ao site. O site lembra de você e permanece acessível."
+
+#: includes/pojo-a11y-settings.php:342
+msgid "Sitewide Accessibility"
+msgstr "Acessibilidade em todo o Site"
+
+#: pojo-accessibility.php:64 pojo-accessibility.php:75
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: includes/pojo-a11y-settings.php:564
+msgid "Accessibility Settings"
+msgstr "Configurações de acessibilidade"
+
+#: includes/pojo-a11y-settings.php:274
+msgid "For style settings of accessibility tools go to > Customize > <a href=\"%s\">Accessibility</a>."
+msgstr "Para configurações de estilo de ferramentas de acessibilidade, vá para > Personalizar >  <a href=\"%s\">Acessibilidade</a>."
+
+#: includes/pojo-a11y-settings.php:273
+msgid "Style Settings"
+msgstr "Configurações de Estilo"
+
+#: includes/pojo-a11y-settings.php:373
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: includes/pojo-a11y-settings.php:330
+msgid "Add landmark roles to all links"
+msgstr "Adicionar funções de ponto de referência a todos os links"
+
+#: includes/pojo-a11y-settings.php:320
+msgid "This option will reset all your target links to open in the same window or tab."
+msgstr "Esta opção vai redefinir todos os seus links de destino para abrir na mesma janela ou guia."
+
+#: includes/pojo-a11y-settings.php:318
+msgid "Remove target attribute from links"
+msgstr "Remover atributo de destino dos links"
+
+#: includes/pojo-a11y-settings.php:298
+msgid "Skip to Content link"
+msgstr "Ir para o link do Conteúdo"
+
+#: includes/pojo-a11y-settings.php:288
+msgid "Add outline to elements on keyboard focus."
+msgstr "Adicione contorno aos elementos no foco do teclado."
+
+#: includes/pojo-a11y-settings.php:286
+msgid "Add Outline Focus"
+msgstr "Adicionar foco de contorno"
+
+#: includes/pojo-a11y-settings.php:265
+msgid "Toolbar Settings"
+msgstr "Configurações da Barra de Ferramentas"
+
+#: includes/pojo-a11y-settings.php:257
+msgid "Link for feedback page in your website. Leave blank to disable."
+msgstr "Link para a página de comentário no seu site. Deixe em branco para desativar."
+
+#: includes/pojo-a11y-settings.php:254
+msgid "Feedback Link"
+msgstr "Link de Comentários"
+
+#: includes/pojo-a11y-settings.php:249
+msgid "Feedback"
+msgstr "Comentário"
+
+#: includes/pojo-a11y-settings.php:246
+msgid "Feedback Title"
+msgstr "Título de Comentário"
+
+#: includes/pojo-a11y-settings.php:239
+msgid "Link for help page in your website. Leave blank to disable."
+msgstr "Link para a página de ajuda em seu site. Deixe em branco para desativar."
+
+#: includes/pojo-a11y-settings.php:236
+msgid "Help Link"
+msgstr "Link de ajuda"
+
+#: includes/pojo-a11y-settings.php:231
+msgid "Help"
+msgstr "Ajudar"
+
+#: includes/pojo-a11y-settings.php:228
+msgid "Help Title"
+msgstr "Título da Ajuda"
+
+#: includes/pojo-a11y-settings.php:221
+msgid "Link for sitemap page in your website. Leave blank to disable."
+msgstr "Link para a página de Mapa do Site. Deixe em branco para desativar."
+
+#: includes/pojo-a11y-settings.php:218
+msgid "Sitemap Link"
+msgstr "Link do Mapa do Site"
+
+#: includes/pojo-a11y-settings.php:213
+msgid "Sitemap"
+msgstr "Mapa do site"
+
+#: includes/pojo-a11y-settings.php:210
+msgid "Sitemap Title"
+msgstr "Título do Mapa do Site"
+
+#: includes/pojo-a11y-settings.php:202
+msgid "Readable Font Title"
+msgstr "Título da Fonte legível"
+
+#: includes/pojo-a11y-settings.php:190 includes/pojo-a11y-settings.php:205
+msgid "Readable Font"
+msgstr "Fonte Legível"
+
+#: includes/pojo-a11y-settings.php:182
+msgid "Links Underline Title"
+msgstr "Título de Links Sublinhado"
+
+#: includes/pojo-a11y-settings.php:170 includes/pojo-a11y-settings.php:185
+msgid "Links Underline"
+msgstr "Links Sublinhados"
+
+#: includes/pojo-a11y-settings.php:162
+msgid "Light Background Title"
+msgstr "Título de Fundo Claro"
+
+#: includes/pojo-a11y-settings.php:150 includes/pojo-a11y-settings.php:165
+msgid "Light Background"
+msgstr "Luz de Cor de Fundo"
+
+#: includes/pojo-a11y-settings.php:142
+msgid "Negative Contrast Title"
+msgstr "Título de Contraste Negativo"
+
+#: includes/pojo-a11y-settings.php:130 includes/pojo-a11y-settings.php:145
+msgid "Negative Contrast"
+msgstr "Contraste Negativo"
+
+#: includes/pojo-a11y-settings.php:122
+msgid "High Contrast Title"
+msgstr "Título Alto Contraste"
+
+#: includes/pojo-a11y-settings.php:110 includes/pojo-a11y-settings.php:125
+msgid "High Contrast"
+msgstr "Alto Contraste"
+
+#: includes/pojo-a11y-settings.php:102
+msgid "Grayscale Title"
+msgstr "Título em Escala de Cinza"
+
+#: includes/pojo-a11y-settings.php:90 includes/pojo-a11y-settings.php:105
+msgid "Grayscale"
+msgstr "Escala de Cinza"
+
+#: includes/pojo-a11y-settings.php:82 includes/pojo-a11y-settings.php:85
+msgid "Decrease Text"
+msgstr "Diminuir o Texto"
+
+#: includes/pojo-a11y-settings.php:74 includes/pojo-a11y-settings.php:77
+msgid "Increase Text"
+msgstr "Aumentar o Texto"
+
+#: includes/pojo-a11y-settings.php:66 includes/pojo-a11y-settings.php:94
+#: includes/pojo-a11y-settings.php:114 includes/pojo-a11y-settings.php:134
+#: includes/pojo-a11y-settings.php:154 includes/pojo-a11y-settings.php:174
+#: includes/pojo-a11y-settings.php:194 includes/pojo-a11y-settings.php:290
+#: includes/pojo-a11y-settings.php:302 includes/pojo-a11y-settings.php:322
+#: includes/pojo-a11y-settings.php:334 includes/pojo-a11y-settings.php:346
+msgid "Enable"
+msgstr "Ativar"
+
+#: includes/pojo-a11y-settings.php:62
+msgid "Resize Font"
+msgstr "Redimensionar Fonte"
+
+#: includes/pojo-a11y-settings.php:57
+msgid "Accessibility Tools"
+msgstr "Ferramentas de Acessibilidade"
+
+#: includes/pojo-a11y-settings.php:55
+msgid "Title top of the toolbar (recommended)."
+msgstr "Título no topo da barra de ferramentas (recomendado)."
+
+#: includes/pojo-a11y-settings.php:53
+msgid "Title"
+msgstr "Título"
+
+#: includes/pojo-a11y-settings.php:44 includes/pojo-a11y-settings.php:67
+#: includes/pojo-a11y-settings.php:95 includes/pojo-a11y-settings.php:115
+#: includes/pojo-a11y-settings.php:135 includes/pojo-a11y-settings.php:155
+#: includes/pojo-a11y-settings.php:175 includes/pojo-a11y-settings.php:195
+#: includes/pojo-a11y-settings.php:291 includes/pojo-a11y-settings.php:303
+#: includes/pojo-a11y-settings.php:323 includes/pojo-a11y-settings.php:335
+#: includes/pojo-a11y-settings.php:347
+msgid "Disable"
+msgstr "Desativar"
+
+#: includes/pojo-a11y-settings.php:43
+msgid "Hidden Phone"
+msgstr "Esconder em Smartphone"
+
+#: includes/pojo-a11y-settings.php:42
+msgid "Hidden Tablet"
+msgstr "Esconder em Tablet"
+
+#: includes/pojo-a11y-settings.php:41
+msgid "Hidden Desktop"
+msgstr "Esconder em Desktop"
+
+#: includes/pojo-a11y-settings.php:40
+msgid "Visible Phone"
+msgstr "Visível apenas em Smartphone"
+
+#: includes/pojo-a11y-settings.php:39
+msgid "Visible Tablet"
+msgstr "Visível apenas em Tablet"
+
+#: includes/pojo-a11y-settings.php:38
+msgid "Visible Desktop"
+msgstr "Visível apenas em Desktop"
+
+#: includes/pojo-a11y-settings.php:37
+msgid "Show on all devices"
+msgstr "Mostrar em todos os dispositivos"
+
+#: includes/pojo-a11y-settings.php:34
+msgid "Display Toolbar"
+msgstr "Exibir Barra de Ferramentas"
+
+#: includes/pojo-a11y-frontend.php:185 includes/pojo-a11y-frontend.php:186
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: includes/pojo-a11y-frontend.php:107
+msgid "Open toolbar"
+msgstr "Barra de Ferramentas Aberta"
+
+#: includes/pojo-a11y-frontend.php:68
+msgid "Skip to content"
+msgstr "Pular para o conteúdo"
+
+#: includes/pojo-a11y-customizer.php:19 includes/pojo-a11y-customizer.php:169
+#: includes/pojo-a11y-settings.php:555 includes/pojo-a11y-settings.php:556
+msgid "Accessibility"
+msgstr "Acessibilidade"
+
+#: includes/pojo-a11y-customizer.php:151
+msgid "Focus Outline Color"
+msgstr "Cor do Contorno de Foco"
+
+#: includes/pojo-a11y-customizer.php:131
+msgid "Focus Outline Width"
+msgstr "Largura do Contorno de Foco"
+
+#: includes/pojo-a11y-customizer.php:123
+msgid "Initial"
+msgstr "Inicial"
+
+#: includes/pojo-a11y-customizer.php:122
+msgid "Outset"
+msgstr "Externo"
+
+#: includes/pojo-a11y-customizer.php:121
+msgid "Ridge"
+msgstr "Ressaltada"
+
+#: includes/pojo-a11y-customizer.php:120
+msgid "Groove"
+msgstr "Baixo-relevo"
+
+#: includes/pojo-a11y-customizer.php:119
+msgid "Double"
+msgstr "Duplo"
+
+#: includes/pojo-a11y-customizer.php:118
+msgid "Dashed"
+msgstr "Tracejada"
+
+#: includes/pojo-a11y-customizer.php:117
+msgid "Dotted"
+msgstr "Pontilhado"
+
+#: includes/pojo-a11y-customizer.php:116
+msgid "Solid"
+msgstr "Sólido"
+
+#: includes/pojo-a11y-customizer.php:113
+msgid "Focus Outline Style"
+msgstr "Estilo de Contorno de Foco"
+
+#: includes/pojo-a11y-customizer.php:83
+msgid "Toggle Button Color"
+msgstr "Alternar Cor do Botão"
+
+#: includes/pojo-a11y-customizer.php:75
+msgid "Toggle Button Background"
+msgstr "Alternar Botão de Cor de Fundo"
+
+#: includes/pojo-a11y-customizer.php:31
+msgid "Right"
+msgstr "Direita"
+
+#: includes/pojo-a11y-customizer.php:30
+msgid "Left"
+msgstr "Esquerda"

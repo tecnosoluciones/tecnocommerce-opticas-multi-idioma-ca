@@ -1,0 +1,89 @@
+# Translation of Plugins - Import All Pages, Post types, Products, Orders, and Users as XML &amp; CSV - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Import All Pages, Post types, Products, Orders, and Users as XML &amp; CSV - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-20 20:09:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.10\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Import All Pages, Post types, Products, Orders, and Users as XML &amp; CSV - Stable (latest release)\n"
+
+#: wp-ultimate-csv-importer.php:97
+msgid "CSV Importer"
+msgstr "Importador CSV"
+
+#. Author URI of the plugin
+msgid "https://www.smackcoders.com/wordpress.html"
+msgstr "https://www.smackcoders.com/wordpress.html"
+
+#: managerExtensions/LogManager.php:113
+msgid "File used to import data into: "
+msgstr "Archivo utilizado para importar datos en: "
+
+#: managerExtensions/LogManager.php:110
+msgid "Mode of event: "
+msgstr "Modo de evento: "
+
+#: managerExtensions/LogManager.php:109
+msgid "Type of the imported file: "
+msgstr "Tipo de archivo importado: "
+
+#: managerExtensions/LogManager.php:108
+msgid "File has been used for this event: "
+msgstr "El archivo se ha utilizado para este evento: "
+
+#: wp-ultimate-csv-importer.php:458
+msgid "Maintenance Mode"
+msgstr "Modo de mantenimiento"
+
+#: SmackCSVImporterInstall.php:218
+msgid "for 10x faster import performance with easy user interface."
+msgstr "para un rendimiento de importación 10 veces más rápido con una sencilla interfaz de usuario."
+
+#: SmackCSVImporterInstall.php:218
+msgid "Download and replace the latest version of"
+msgstr "Descargar y reemplazar la última versión de"
+
+#: SmackCSVImporterInstall.php:218
+msgid "Upgrade Notice:"
+msgstr "Aviso de actualización:"
+
+#. Author of the plugin
+msgid "Smackcoders"
+msgstr "Smackcoders"
+
+#. Description of the plugin
+msgid "Seamlessly create posts, custom posts, pages, media, SEO and more from your CSV data with ease."
+msgstr "Cree sin problemas entradas, entradas personalizadas, páginas, medios, SEO y mucho más con facilidad a partir de tus datos CSV."
+
+#: SmackCSVImporterInstall.php:73
+msgid "Ultimate CSV Importer PRO data update complete. Thank you for updating to the latest version!"
+msgstr "Actualización completada de los datos de Ultimate CSV Importer PRO. ¡Gracias por actualizar a la última versión!"
+
+#: managerExtensions/LogManager.php:111
+msgid "Total no of records: "
+msgstr "Número total de registros:"
+
+#. Plugin URI of the plugin
+msgid "https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html"
+msgstr "https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html"
+
+#. Plugin Name of the plugin
+msgid "WP Ultimate CSV Importer"
+msgstr "WP Ultimate CSV Importer"
+
+#: upgrade-to-pro.php:186
+msgid "WP Customer Reviews"
+msgstr "WP Customer Reviews"
+
+#: importExtensions/CoreFieldsImport.php:132
+#: importExtensions/CoreFieldsImport.php:145
+#: importExtensions/CoreFieldsImport.php:148
+#: importExtensions/CoreFieldsImport.php:151
+#: importExtensions/CoreFieldsImport.php:542
+#: importExtensions/CoreFieldsImport.php:545
+msgid "View &#8220;%s&#8221;"
+msgstr "Ver «%s»"

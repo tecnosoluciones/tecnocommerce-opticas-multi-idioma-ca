@@ -1,0 +1,11 @@
+# Log files
+*.log
+error_log
+
+# Uploads
+/wp-content/uploads/
+
+# Configuration
+wp-config.php
+
+.ftpquota

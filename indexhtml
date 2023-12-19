@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="Expires" content="Fri, Jan 01 1900 00:00:00 GMT">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Lang" content="es">
+<meta name="author" content="">
+<meta http-equiv="Reply-to" content="@.com">
+<meta name="generator" content="PhpED 5.8">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="creation-date" content="01/01/2009">
+<meta name="revisit-after" content="15 days">
+<title>Coming soon here</title>
+    <link href="cortina/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Days+One" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Istok+Web" rel="stylesheet" type="text/css" />    
+    
+    <script type="text/javascript" src="cortina/js/jquery.min.js"></script>
+    <script src="cortina/js/fuentes.js" type="text/javascript"></script>
+    <script src="cortina/js/script.js" type="text/javascript"></script>
+        
+</head>
+<body>
+
+  <div class="divHeader">
+    <div class="header">
+        <a href="http://www.tecnosoluciones.com"><img src="cortina/images/logoTecnosoluciones.png" vspace="30" border="0"/></a>
+    </div>
+  </div>
+  
+  <div class="divContent">
+    <div class="cliente"></div>
+    <div class="descripcion"></div>
+    <div class="divService">
+        <ul>
+            <li id="l1"><a title="Basic Website Design" href="https://tecnosoluciones.com/basic-and-advanced-presence-on-the-internet-portals-and-web-pages/?lang=en" target="_blank">Tecno<span style="color:#FFD402;">Sitios</span></a></li>
+            <li id="l2"><a title="Interactive Web Portals for Companies or Institutions" href="https://tecnosoluciones.com/basic-and-advanced-presence-on-the-internet-portals-and-web-pages/tecnocms-professional-websites/?lang=en" target="_blank">Tecno<span style="color:#01986D;">CMS</span></a></li>
+            <li id="l3"><a title="Specialized Web Portals" href="https://tecnosoluciones.com/basic-and-advanced-presence-on-the-internet-portals-and-web-pages/tecnocms-specialized-websites-for-companies/?lang=en" target="_blank">Tecno<span style="color:#8F10D9;">CMS</span> Advanced</a></li>
+            <li id="l4"><a title="E-Commerce Digital Platform" href="https://tecnosoluciones.com/tecnocommerce-electronic-commerce/?lang=en" target="_blank">Tecno<span style="color:#1b5fc6;">Commerce</span></a></li>
+            <li id="l5"><a title="Web Portals for Builders and Real Estate" href="https://tecnosoluciones.com/basic-and-advanced-presence-on-the-internet-portals-and-web-pages/tecnocms-specialized-websites-for-companies/tecnoinmuebles-portals-for-builders-and-real-estate/?lang=en" target="_blank">Tecno<span style="color:#6A00B6;">Inmuebles</span></a></li>
+            <li id="l6"><a title="Email Marketing Digital Platforms" href="https://tecnosoluciones.com/email-marketing/?lang=en" target="_blank">Tecno<span style="color:#00DF00;">Matic</span></a></li>
+            <li id="l7"><a title="Customer Relationships Management (CRM) Digital Platform" href="https://tecnosoluciones.com/automation-and-strategy-of-sales-crm-and-customer-management/tecnocrm-crm/?lang=en" target="_blank">Tecno<span style="color:#F10931;">CRM</span></a></li>
+            <li id="l8"><a title="Landing Pages for Digital Campaigns" href="https://tecnosoluciones.com/basic-and-advanced-presence-on-the-internet-portals-and-web-pages/tecnolanding-landing-pages/?lang=en" target="_blank">Tecno<span style="color:#02339A;">Landing</span></a></li>
+            <li id="l9"><a title="Digital Platform for Intranets & Extranets" href="https://tecnosoluciones.com/online-management-systems/tecnointranet-collaborative-resources-portal-for-intranets/?lang=en" target="_blank">Tecno<span style="color:#0091B4;">Intranet</span></a></li>
+            <li id="l10"><a title="Customer Support Center Digital Platform" href="https://tecnosoluciones.com/automation-and-strategy-of-sales-crm-and-customer-management/tecnosupport-customer-service-software/?lang=en" target="_blank">Tecno<span style="color:#01B901;">Support</span></a></li>
+            <li id="l11"><a title="Business Consulting with Digital Transformation" href="https://tecnosoluciones.com/business-consulting-with-digital-transformation/?lang=en" target="_blank">Tecno<span style="color:#01B901;">Consulting</span></a></li>
+             <li id="l12"><a title="Digital Marketing Strategies and Services" href="https://tecnosoluciones.com/digital-marketing-strategies/?lang=en" target="_blank">Tecno<span style="color:#7D0B3C;">Marketing</span></a></li>
+             <li id="l13"><a title="Digital Marketing Strategies and Services" href="https://tecnosoluciones.com/digital-marketing-strategies/?lang=en" target="_blank">Tecno<span style="color:#7D0B3C;">Marketing</span></a></li>
+            <li id="l14"><a title="Information Technology Management Digital Platform" href="https://tecnosoluciones.com/online-management-systems/tecnoitm-it-resource-management-platform/?lang=en" target="_blank">Tecno<span style="color:#F98800;">ITM</span></a></li>
+            <li id="l15"><a title="E-Learning Digital Platforms" href="https://tecnosoluciones.com/tecnoelearning-virtual-classroom-platform/?lang=en" target="_blank">Tecno<span style="color:#0477B8;">Learning</span></a></li>
+            <li id="l16"><a title="Cloud Files Management Digital Platform" href="https://tecnosoluciones.com/online-management-systems/tecnocloud-cloud-document-management-for-intranets/?lang=en" target="_blank">Tecno<span style="color:#FFBC01;">Cloud</span></a></li>
+            <li id="l17"><a title="Virtual Meetings Digital Platform" href="https://tecnosoluciones.com/online-management-systems/tecnomeetings-virtual-meetings-with-video-conferences-for-intranets/?lang=en" target="_blank">Tecno<span style="color:#A34045;">Meetings</span></a></li>
+            <li id="l18"><a title="Human Resources Management Digital Platform" href="https://tecnosoluciones.com/online-management-systems/tecnohrm-human-resources-software/?lang=en" target="_blank">Tecno<span style="color:#E504CC;">HRM</span></a></li>
+        </ul>
+        <div class="divContacto">
+            <img src="cortina/images/img_contacto.jpg" align="left" />&nbsp;<font color="#5590ea">Looking for Internet Success?&nbsp;<a href="http://www.tecnosoluciones.com/Contacto"><b>&iexcl;Contact us Now!</b></a></font>
+        </div>
+        
+    </div>
+  </div>
+  <br /><br /><br />
+  <div class="divFooter">
+    <div class="footer">
+        <img usemap="#redessociales" src="cortina/images/redessociales.png" border="0"/>
+        <map name="redessociales">
+            <area shape="rect" coords="20,37,60,71" target="_blank" href="https://www.facebook.com/TecnoSoluciones" title="Follow us in Facebook" alt="Follow us in Facebook" />
+            <area shape="rect" coords="70,37,108,71" target="_blank" href="https://www.twitter.com/tecnosoluciones" title="Follow us in X" alt="Follow us in X" />
+            <area shape="rect" coords="117,37,157,71" target="_blank" href="https://www.instagram.com/tecnosoluciones" title="Follow us in Instagram" alt="Follow us in Instagram" />
+            <area shape="rect" coords="165,37,205,71" target="_blank" href="https://www.youtube.com/user/tecnosolucionescom" title="S&iacute;guenos en Youtube" alt="Follow us in Youtube" />
+            <area shape="rect" coords="213,37,253,71" target="_blank" href="https://www.linkedin.com/company/tecnosoluciones" title="Follow us in Linkedin" alt="Follow us in Linkedin" />
+            <area shape="rect" coords="261,37,302,71" target="_blank" href="https://vimeo.com/tecnosoluciones/" title="Follow us in Vimeo" alt="Follow us in Vimeo" />        
+        </map>
+    </div>
+  </div>
+  
+</body>
+</html>

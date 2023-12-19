@@ -1,0 +1,1 @@
+<?php /* archivo para su eliminación */ ?>

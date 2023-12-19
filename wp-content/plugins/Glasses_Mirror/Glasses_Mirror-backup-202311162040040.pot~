@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Virtual try on popup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-16 20:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.2\n"
+"X-Domain: Glasses_Mirror"
+
+#: Glasses_Mirror.php:1380
+msgid ""
+"<strong>NOTE:</strong> Dear customer, note that it is important that you "
+"verify the measurements of the frame, which you can see in the frame details "
+"page. Please compare the measurements of the chosen frame with the glasses "
+"you are currently wearing.\n"
+"                                                    <br>\n"
+"                                                    Your complete "
+"satisfaction is our goal. \n"
+"                                                    <br>"
+msgstr ""
+
+#: Glasses_Mirror.php:1647
+msgid ""
+"<strong>NOTE:</strong> Dear customer, note that it is important that you "
+"verify the measurements of the frame, which you can see in the frame details "
+"page. Please compare the measurements of the chosen frame with the glasses "
+"you are currently wearing.\n"
+"                                                <br>\n"
+"                                                Your complete satisfaction "
+"is our goal. \n"
+"                                                <br>"
+msgstr ""
+
+#: Glasses_Mirror.php:1407 Glasses_Mirror.php:1673
+msgid "Cancel"
+msgstr ""
+
+#: Glasses_Mirror.php:1406 Glasses_Mirror.php:1672
+msgid "Capture"
+msgstr ""
+
+#: Glasses_Mirror.php:1354 Glasses_Mirror.php:1621
+msgid "Change the size of the glasses"
+msgstr ""
+
+#. Author of the plugin
+msgid "Gordon"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://bootstrapweb.co.uk/popup/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Let shoppers try and compare eyeglasses on the shop page ."
+msgstr ""
+
+#: Glasses_Mirror.php:288 Glasses_Mirror.php:497
+msgid "No se cargó ninguna imagen"
+msgstr ""
+
+#: Glasses_Mirror.php:1366 Glasses_Mirror.php:1633
+msgid "Rotate"
+msgstr ""
+
+#: Glasses_Mirror.php:1405 Glasses_Mirror.php:1671
+msgid "Save image"
+msgstr ""
+
+#: Glasses_Mirror.php:287 Glasses_Mirror.php:496
+msgid "Subir"
+msgstr ""
+
+#: Glasses_Mirror.php:289 Glasses_Mirror.php:498
+msgid "Subir imagen"
+msgstr ""
+
+#: Glasses_Mirror.php:1395 Glasses_Mirror.php:1662
+msgid "Take a picture"
+msgstr ""
+
+#: Glasses_Mirror.php:1391 Glasses_Mirror.php:1658
+msgid "Upload an image"
+msgstr ""
+
+#: Glasses_Mirror.php:1412 Glasses_Mirror.php:1679
+msgid "Uploading..."
+msgstr ""
+
+#. Name of the plugin
+msgid "Virtual try on popup"
+msgstr ""
+
+#: Glasses_Mirror.php:1113 Glasses_Mirror.php:1281 Glasses_Mirror.php:1319
+#: Glasses_Mirror.php:1527 Glasses_Mirror.php:1588
+msgid "Virtual Try-On"
+msgstr ""
+
+#: Glasses_Mirror.php:1400 Glasses_Mirror.php:1667
+msgid "Webcam"
+msgstr ""
+
+#: Glasses_Mirror.php:1385 Glasses_Mirror.php:1652
+msgid "WhatsApp Contact"
+msgstr ""
